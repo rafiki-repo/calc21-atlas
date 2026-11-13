@@ -14,4 +14,8 @@ Each person note says **what they contributed or are known for**, with sources, 
 - Isaac Newton and Gottfried Leibniz: see [[Newton vs Leibniz]]
 
 ## Today's voices
-*(To be built by the routine, in two groups: researchers in analysis and related fields, and educators / communicators / authors.)*
+### Researchers
+- [[Terence Tao]]: Fields Medal analyst, textbook author, and a central figure in AI-assisted mathematics
+
+### Educators and communicators
+*(Coming soon.)*

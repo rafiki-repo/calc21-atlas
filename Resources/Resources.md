@@ -1,6 +1,6 @@
 ---
 type: hub
-status: stub
+status: draft
 updated: 2026-11-13
 ---
 
@@ -18,4 +18,6 @@ The best places to learn, explore, and compute. Back to [[Home]].
 
 **Each resource note lists:** what it is, who it's for, cost or login requirements, and the date the link was last checked.
 
-*(No notes yet.)*
+## Notes
+
+- [[Lean Companion to Analysis I]]: an undergraduate analysis course written in machine-checkable form (free)

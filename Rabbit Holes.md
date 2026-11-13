@@ -30,10 +30,18 @@ Guided trails through the Atlas. Pick one and just keep clicking. Each trail cro
 2. [[Jacobian Conjecture]] — a deceptively simple claim about polynomial maps
 3. [[Open Problems]] — the full list
 
+## Trail 4: Calculus vs the machines
+
+1. [[Calculus and AI]] — chatbots are fluent, but not always right
+2. [[Proof Assistants and Lean]] — software that won't let you skip a step
+3. [[Lean Companion to Analysis I]] — the Fundamental Theorem of Calculus, machine-checked
+4. [[AI as Research Collaborator]] — AI hunting for strange functions and fluid blow-ups
+5. [[Navier-Stokes Smoothness Problem]] — the million-dollar question in the background
+6. [[Terence Tao]] — the mathematician at the center of much of this
+
 ---
 
 ## Trails we want to build
 
 - **Who's who now:** today's voices in analysis and in explaining calculus
-- **Calculus vs the machines:** AI tutors, proof assistants, and where they stumble
 - **Strange calculi:** fractional, non-standard, and discrete versions

@@ -30,4 +30,5 @@ It turns hard summing problems into "find the antiderivative" problems, which is
 
 - [[Newton vs Leibniz]] — the two people who each saw this connection
 - [[Basel Problem]] — a different kind of "adding up" puzzle
+- [[Lean Companion to Analysis I]]: see this theorem proved so a computer can check every step
 - [[Glossary]] — derivative, integral, antiderivative

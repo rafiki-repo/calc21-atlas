@@ -16,6 +16,9 @@ Plain-language definitions. Link to a term from any note with `[[Glossary#Term]]
 ### Antiderivative
 A function whose derivative is the one you started with. Not unique: adding a constant gives another. See [[Fundamental Theorem of Calculus]].
 
+### Autoformalization
+Using AI to translate ordinary written math into a formal language that a [[Glossary#Proof assistant|proof assistant]] can check. See [[Proof Assistants and Lean]].
+
 ## C
 
 ### Continuity
@@ -31,6 +34,11 @@ The instantaneous rate of change of a function; the slope of its graph at a poin
 
 ### Differential equation
 An equation involving a function and its derivatives. Solving it means finding the function. See [[Navier-Stokes Smoothness Problem]] for a famous unsolved case.
+
+## F
+
+### Formal proof
+A proof written in a precise language in which software can check every step. See [[Proof Assistants and Lean]].
 
 ## I
 
@@ -49,6 +57,9 @@ The value a function approaches as its input approaches some point. The idea tha
 
 ### Partial derivative
 The derivative of a multivariable function with respect to one variable, holding the others fixed.
+
+### Proof assistant
+Software, such as Lean, that checks proofs step by step against strict logical rules. It confirms the logic, but not whether the statement says what was intended. See [[Proof Assistants and Lean]].
 
 ## S
 
