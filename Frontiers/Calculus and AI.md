@@ -35,7 +35,7 @@ The evidence is still thin and mostly from preprints or vendors, but some consis
 - [[Proof Assistants and Lean]]: how a computer can *check* a calculus proof
 - [[AI as Research Collaborator]]: AlphaEvolve, fluid blow-ups, and a contested mass release of proofs
 - [[Terence Tao]]: a central figure in both analysis and AI-assisted math
-- [[Education]]: how calculus is taught, and how AI is changing it
+- [[Widening Access to Calculus]]: AI tutors arriving in free college courseware
 
 ## Sources (checked 2026-11-13)
 

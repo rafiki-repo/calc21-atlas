@@ -40,6 +40,11 @@ An equation involving a function and its derivatives. Solving it means finding t
 ### Formal proof
 A proof written in a precise language in which software can check every step. See [[Proof Assistants and Lean]].
 
+## G
+
+### Gradient
+For a function of several variables, the vector of its partial derivatives. It points in the direction of steepest increase. See [[CalcPlot3D]] to see one.
+
 ## I
 
 ### Infinitesimal
@@ -68,3 +73,8 @@ A sum of infinitely many terms. See [[Basel Problem]].
 
 ### Smooth
 Informally: having derivatives of all orders, with no jumps or kinks. See [[Navier-Stokes Smoothness Problem]].
+
+## V
+
+### Vector field
+A rule that attaches an arrow (a vector) to every point in space, like wind speed and direction on a weather map. See [[CalcPlot3D]].

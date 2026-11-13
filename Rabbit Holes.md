@@ -39,6 +39,14 @@ Guided trails through the Atlas. Pick one and just keep clicking. Each trail cro
 5. [[Navier-Stokes Smoothness Problem]] — the million-dollar question in the background
 6. [[Terence Tao]] — the mathematician at the center of much of this
 
+## Trail 5: Calculus on a zero budget
+
+1. [[Free Calculus Textbooks]] — two open textbooks, side by side
+2. [[MIT OCW Single Variable Calculus]] — an MIT semester, no tuition
+3. [[Fundamental Theorem of Calculus]] — where the semester is headed
+4. [[CalcPlot3D]] — for when calculus goes 3D
+5. [[Widening Access to Calculus]] — who is trying to get calculus to more students
+
 ---
 
 ## Trails we want to build

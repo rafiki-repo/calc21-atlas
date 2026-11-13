@@ -38,6 +38,7 @@ Calculus is **two ideas and one surprise**. The first idea: you can measure *how
 - **Why does the *area* under a curve have anything to do with *slope*?** → [[Fundamental Theorem of Calculus]]
 - **A million-dollar prize for understanding how water flows. Why is that hard?** → [[Navier-Stokes Smoothness Problem]]
 - **Can a computer check a calculus proof, and can AI write one?** → [[Calculus and AI]]
+- **Can you learn calculus without paying for a textbook?** → [[Free Calculus Textbooks]]
 - **A problem about simple polynomial maps that has resisted proof for 80+ years** → [[Jacobian Conjecture]]
 
 ---
