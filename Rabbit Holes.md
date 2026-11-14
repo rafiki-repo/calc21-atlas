@@ -1,7 +1,7 @@
 ---
 type: hub
 status: draft
-updated: 2026-11-13
+updated: 2026-11-14
 ---
 
 # Rabbit Holes
@@ -46,6 +46,15 @@ Guided trails through the Atlas. Pick one and just keep clicking. Each trail cro
 3. [[Fundamental Theorem of Calculus]] — where the semester is headed
 4. [[CalcPlot3D]] — for when calculus goes 3D
 5. [[Widening Access to Calculus]] — who is trying to get calculus to more students
+
+## Trail 6: Medal-winning analysis
+
+1. [[Research Watch]] — what got proved lately, and which prizes noticed
+2. [[Kakeya Conjecture]] — spin a needle in almost no space
+3. [[Hong Wang]] — who cracked the 3D case
+4. [[Hilbert Sixth Problem]] — from billiard balls to Boltzmann to fluids
+5. [[Yu Deng]] — the PDE side of the 2026 medals
+6. [[Navier-Stokes Smoothness Problem]] — the fluid question that is still wide open
 
 ---
 

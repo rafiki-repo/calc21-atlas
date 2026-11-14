@@ -1,7 +1,7 @@
 ---
 type: glossary
 status: draft
-updated: 2026-11-13
+updated: 2026-11-14
 sources: unverified-seed
 ---
 
@@ -40,10 +40,18 @@ An equation involving a function and its derivatives. Solving it means finding t
 ### Formal proof
 A proof written in a precise language in which software can check every step. See [[Proof Assistants and Lean]].
 
+### Fourier analysis
+Breaking a complicated signal or function into a sum of simple waves (sines and cosines), then studying it piece by piece. The wider field is called *harmonic analysis*. See [[Kakeya Conjecture]].
+
 ## G
 
 ### Gradient
 For a function of several variables, the vector of its partial derivatives. It points in the direction of steepest increase. See [[CalcPlot3D]] to see one.
+
+## H
+
+### Hausdorff dimension
+A way to give a size-exponent to irregular sets such as fractals: a line has dimension 1, a plane 2, and some fractals land in between. See [[Kakeya Conjecture]].
 
 ## I
 
@@ -62,6 +70,9 @@ The value a function approaches as its input approaches some point. The idea tha
 
 ### Partial derivative
 The derivative of a multivariable function with respect to one variable, holding the others fixed.
+
+### Partial differential equation (PDE)
+A [[Glossary#Differential equation|differential equation]] whose unknown function depends on several variables, such as position and time. Heat, waves, and fluids are all described by PDEs. See [[Hilbert Sixth Problem]].
 
 ### Proof assistant
 Software, such as Lean, that checks proofs step by step against strict logical rules. It confirms the logic, but not whether the statement says what was intended. See [[Proof Assistants and Lean]].

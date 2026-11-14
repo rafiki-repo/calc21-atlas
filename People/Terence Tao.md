@@ -1,7 +1,7 @@
 ---
 type: person
 status: draft
-updated: 2026-11-13
+updated: 2026-11-14
 last_checked: 2026-11-13
 tags: [researcher, analysis, ai, lean, author]
 sources: [teorth.github.io, arxiv.org, terrytao.wordpress.com]
@@ -30,4 +30,5 @@ sources: [teorth.github.io, arxiv.org, terrytao.wordpress.com]
 - [[Lean Companion to Analysis I]]: his textbook, machine-checked
 - [[AI as Research Collaborator]]: the AlphaEvolve work
 - [[Proof Assistants and Lean]]
+- [[Kakeya Conjecture]]: his Katz–Tao program fed into the 3D proof
 - [[People]]

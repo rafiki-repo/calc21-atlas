@@ -1,7 +1,7 @@
 ---
 type: open-problem
 status: draft
-updated: 2026-11-13
+updated: 2026-11-14
 last_checked: 2026-11-13
 tags: [pde, millennium-prize]
 sources: unverified-seed
@@ -21,6 +21,8 @@ Listed as open in the Clay Institute's problem list. **Needs a source check agai
 
 **Recent AI-assisted work (not a solution):** In September 2025, a Google DeepMind-led team reported new families of *unstable* blow-up solutions in related fluid equations, found with neural networks (arXiv preprint 2509.14185). Unstable singularities are thought to be the kind that matter for Navier-Stokes, but the work does not cover Navier-Stokes itself. See [[AI as Research Collaborator]].
 
+**Related but different:** a 2025 preprint claims to *derive* the Navier-Stokes equations from colliding particles. That concerns where the equations come from, not whether their solutions stay smooth. See [[Hilbert Sixth Problem]].
+
 ## Why it connects to calculus
 
 It is a question about **differential equations** and about what "smooth" (differentiable, repeatedly) really guarantees.
@@ -28,6 +30,7 @@ It is a question about **differential equations** and about what "smooth" (diffe
 ## Next stop
 
 - [[AI as Research Collaborator]]: AI goes hunting for blow-ups
+- [[Hilbert Sixth Problem]]: where the fluid equations come from
 - [[Jacobian Conjecture]] — another simple-sounding open problem
 - [[Glossary]] — differential equation, smooth
 - [[Open Problems]]

@@ -1,7 +1,7 @@
 ---
 type: hub
 status: draft
-updated: 2026-11-13
+updated: 2026-11-14
 ---
 
 # Calc21 Atlas
@@ -26,7 +26,7 @@ Calculus is **two ideas and one surprise**. The first idea: you can measure *how
 | **Teaching it** | [[Education]] · [[Resources]] |
 | **A puzzle person** | [[Puzzles]] |
 | **A story person** | [[Stories]] · [[People]] |
-| **Hunting the frontier** | [[Open Problems]] · [[Frontiers]] |
+| **Hunting the frontier** | [[Open Problems]] · [[Frontiers]] · [[Research Watch]] |
 | **Wondering what it's *for*** | [[Applications]] |
 
 ---
@@ -40,6 +40,8 @@ Calculus is **two ideas and one surprise**. The first idea: you can measure *how
 - **Can a computer check a calculus proof, and can AI write one?** → [[Calculus and AI]]
 - **Can you learn calculus without paying for a textbook?** → [[Free Calculus Textbooks]]
 - **A problem about simple polynomial maps that has resisted proof for 80+ years** → [[Jacobian Conjecture]]
+- **How little space do you need to turn a needle around? (A 2026 Fields Medal says: tricky.)** → [[Kakeya Conjecture]]
+- **Can you derive the laws of fluids from billiard balls?** → [[Hilbert Sixth Problem]]
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 type: hub
 status: draft
-updated: 2026-11-13
+updated: 2026-11-14
 ---
 
 # People
@@ -16,6 +16,8 @@ Each person note says **what they contributed or are known for**, with sources, 
 ## Today's voices
 ### Researchers
 - [[Terence Tao]]: Fields Medal analyst, textbook author, and a central figure in AI-assisted mathematics
+- [[Hong Wang]]: 2026 Fields Medalist; proved the 3D Kakeya conjecture with Joshua Zahl
+- [[Yu Deng]]: 2026 Fields Medalist; derives fluid and kinetic equations from particle dynamics
 
 ### Educators and communicators
 *(Coming soon.)*
