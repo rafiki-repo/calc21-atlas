@@ -1,8 +1,8 @@
 ---
 type: topic
 status: draft
-updated: 2026-11-13
-last_checked: 2026-11-13
+updated: 2026-11-15
+last_checked: 2026-11-15
 tags: [ai, research, analysis, pde]
 sources: [arxiv.org, deepmind.google, tech-insider.org]
 ---
@@ -11,7 +11,7 @@ sources: [arxiv.org, deepmind.google, tech-insider.org]
 
 **Hook:** AI is no longer just doing calculus homework. It is turning up strange functions and blow-up solutions that professional analysts hadn't found, and the field is still arguing about what that's worth.
 
-## Three episodes to know
+## Five episodes to know
 
 **1. AlphaEvolve and the inequality hunters (Nov 2025, preprint)**
 Georgiev, Gómez-Serrano, [[Terence Tao]], and Wagner pointed Google DeepMind's **AlphaEvolve** at 67 problems in analysis, combinatorics, geometry, and number theory. The system writes code that searches for examples, tests them, and refines them. It reportedly matched the best known results in most cases and **improved several**, including bounds on autocorrelation inequalities, a classic type of analysis problem. Most of these are *constructions and bounds*, not new proofs.
@@ -22,14 +22,21 @@ A DeepMind-led team, working with researchers at Brown, NYU, and Stanford, used 
 **3. The mass release (Oct 2026)**
 OpenAI published hundreds of manuscripts from an unreleased internal model, claiming full or partial solutions to open problems, including some in differential equations. According to secondary reporting, about **42%** of top-line results had Lean-checked proofs as of Oct 7, three manuscripts were withdrawn after a sign error, and the totals vary by outlet. Mathematicians quoted in coverage raised concerns about credit, overlap with unpublished human work, and how much the field can realistically review. **Status: claims under community review.**
 
+**4. A conjecture falls (Jul 2026)**
+Levent Alpöge announced a counterexample to the 87-year-old [[Jacobian Conjecture]] in three dimensions, found with an Anthropic Claude model. It is a short polynomial map that anyone can check, and several mathematicians and an Isabelle formal proof did. The two-dimensional case remains open.
+
+**5. The Navier-Stokes claim (Sep 2026)**
+OpenAI claimed a Lean-checked proof that the forced 3D Navier-Stokes equations can blow up. The work built on a human strategy by Córdoba and Martínez-Zoroa and arrived amid a credit dispute with Buckmaster and Alpöge's forced-Euler result. **Status: claimed, under review.** See [[Navier-Stokes Smoothness Problem]].
+
 ## The pattern
 
-AI is strongest at **search**: trying vast numbers of candidate functions, constants, or constructions. People still decide which questions matter, check the results, and turn numerical evidence into proofs.
+AI is strongest at **search**: trying vast numbers of candidate functions, constants, or constructions. A counterexample, once found, is easy to check. A 166-page proof is not. People still decide which questions matter, check the results, and turn numerical evidence into proofs.
 
 ## Next stop
 
 - [[Proof Assistants and Lean]]: how claimed proofs get machine-checked
 - [[Navier-Stokes Smoothness Problem]]: the prize problem behind the fluid work
+- [[Jacobian Conjecture]]: what's left after the counterexample
 - [[Open Problems]]
 - [[Calculus and AI]]: the overview
 
@@ -38,3 +45,4 @@ AI is strongest at **search**: trying vast numbers of candidate functions, const
 - [Mathematical exploration and discovery at scale](https://arxiv.org/abs/2511.02864), Georgiev, Gómez-Serrano, Tao, Wagner, arXiv preprint (v3 Dec 2025)
 - [Discovering new solutions to century-old problems in fluid dynamics](https://deepmind.google/blog/discovering-new-solutions-to-century-old-problems-in-fluid-dynamics/), Google DeepMind blog, Sep 2025 (paper: arXiv 2509.14185)
 - [OpenAI math repository formalizes about 42% in Lean](https://tech-insider.org/openai-math-papers-lean-verification-42-percent-2026/), tech-insider.org, Oct 2026 (secondary reporting; OpenAI's own page could not be fetched)
+- Episodes 4-5 (checked 2026-11-15): see the sources listed in [[Jacobian Conjecture]] and [[Navier-Stokes Smoothness Problem]]

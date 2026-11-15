@@ -39,6 +39,6 @@ Kakeya sits at the base of a **tower of conjectures in [[Glossary#Fourier analys
 ## Next stop
 
 - [[Hong Wang]]: who proved the 3D case
-- [[Jacobian Conjecture]]: another simple-to-state, hard-to-prove problem
+- [[Jacobian Conjecture]]: another simple-to-state problem, this one disproved in 3D in 2026
 - [[Research Watch]]
 - [[Open Problems]]

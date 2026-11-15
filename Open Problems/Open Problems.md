@@ -1,7 +1,7 @@
 ---
 type: hub
 status: draft
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 # Open Problems
@@ -14,8 +14,8 @@ Every entry states its **status** and **last_checked** date. Claimed proofs are 
 
 | Problem | Area | Hook |
 |---|---|---|
-| [[Navier-Stokes Smoothness Problem]] | Differential equations | Do smooth fluid flows stay smooth forever? |
-| [[Jacobian Conjecture]] | Multivariable calculus / algebra | When is a polynomial map reversible? |
+| [[Navier-Stokes Smoothness Problem]] | Differential equations | Do smooth fluid flows stay smooth forever? (forced blow-up claimed with AI, 2026; under review) |
+| [[Jacobian Conjecture]] | Multivariable calculus / algebra | When is a polynomial map reversible? (false in 3D+ since 2026; 2D open) |
 | [[Kakeya Conjecture]] | Harmonic analysis | How thin can a needle-turning set be? (3D case: proof posted 2025) |
 | [[Hilbert Sixth Problem]] | PDEs / mathematical physics | Can fluid equations be derived from colliding particles? (claimed progress, 2025) |
 

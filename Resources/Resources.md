@@ -1,7 +1,7 @@
 ---
 type: hub
 status: draft
-updated: 2026-11-13
+updated: 2026-11-15
 ---
 
 # Resources
@@ -25,6 +25,11 @@ The best places to learn, explore, and compute. Back to [[Home]].
 ## Rigorous and formal
 
 - [[Lean Companion to Analysis I]]: an undergraduate analysis course written in machine-checkable form (free)
+
+## Problem archives
+
+- [[Putnam Competition]]: links to Kiran Kedlaya's free archive of Putnam problems and solutions, 1985-2025
+- [[MIT Integration Bee]]: links to past bee integrals with answers (free)
 
 ## Elsewhere in the Atlas
 

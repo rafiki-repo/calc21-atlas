@@ -1,7 +1,7 @@
 ---
 type: hub
 status: draft
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 # Rabbit Holes
@@ -26,8 +26,8 @@ Guided trails through the Atlas. Pick one and just keep clicking. Each trail cro
 
 ## Trail 3: The edge of what's known
 
-1. [[Navier-Stokes Smoothness Problem]] — why fluid flow is still a prize problem
-2. [[Jacobian Conjecture]] — a deceptively simple claim about polynomial maps
+1. [[Navier-Stokes Smoothness Problem]] — a prize problem with a 2026 claim still under review
+2. [[Jacobian Conjecture]] — a deceptively simple claim that fell in 3D, and survives in 2D
 3. [[Open Problems]] — the full list
 
 ## Trail 4: Calculus vs the machines
@@ -36,8 +36,9 @@ Guided trails through the Atlas. Pick one and just keep clicking. Each trail cro
 2. [[Proof Assistants and Lean]] — software that won't let you skip a step
 3. [[Lean Companion to Analysis I]] — the Fundamental Theorem of Calculus, machine-checked
 4. [[AI as Research Collaborator]] — AI hunting for strange functions and fluid blow-ups
-5. [[Navier-Stokes Smoothness Problem]] — the million-dollar question in the background
-6. [[Terence Tao]] — the mathematician at the center of much of this
+5. [[Jacobian Conjecture]] — the 2026 counterexample anyone can check
+6. [[Navier-Stokes Smoothness Problem]] — the 2026 claim that takes months to check
+7. [[Terence Tao]] — the mathematician at the center of much of this
 
 ## Trail 5: Calculus on a zero budget
 
@@ -54,7 +55,15 @@ Guided trails through the Atlas. Pick one and just keep clicking. Each trail cro
 3. [[Hong Wang]] — who cracked the 3D case
 4. [[Hilbert Sixth Problem]] — from billiard balls to Boltzmann to fluids
 5. [[Yu Deng]] — the PDE side of the 2026 medals
-6. [[Navier-Stokes Smoothness Problem]] — the fluid question that is still wide open
+6. [[Navier-Stokes Smoothness Problem]] — the fluid question with a contested 2026 claim
+
+## Trail 7: Integrals for sport
+
+1. [[MIT Integration Bee]] — five minutes, one integral, a live audience
+2. [[Feynman Integration Trick]] — the tool Feynman said won him his reputation
+3. [[Basel Problem]] — the 17th-century puzzle that made Euler famous
+4. [[Putnam Competition]] — twelve proofs in six hours
+5. [[Calculus and AI]] — when the machines entered the Putnam too
 
 ---
 

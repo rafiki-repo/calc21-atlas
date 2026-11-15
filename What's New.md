@@ -1,12 +1,17 @@
 ---
 type: changelog
 status: draft
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 # What's New
 
 Latest additions and changes to the Atlas, newest first. Back to [[Home]].
+
+## 2026-11-15
+- **Status corrections.** Two open-problem notes were out of date. [[Jacobian Conjecture]]: an AI-assisted counterexample disproved it in 3 and more dimensions (July 2026). The 2D case is still open. [[Navier-Stokes Smoothness Problem]]: OpenAI claims a Lean-checked proof of forced blow-up (Sep 2026). It is still under review, and Clay lists the problem as "active". [[AI as Research Collaborator]] and [[Research Watch]] are updated to match.
+- **Puzzles grows up.** New: the [[MIT Integration Bee]] (2026 Grand Integrator: Karthik Vedula), the [[Putnam Competition]] (including the 2025 AI entrant), and the [[Feynman Integration Trick]]. [[Basel Problem]] is now source-checked, with a link to a geometric video proof.
+- **New trail:** "Integrals for sport" in [[Rabbit Holes]]. The [[Glossary]] adds *counterexample*, *Jacobian*, and *Riemann sum*.
 
 ## 2026-11-14
 - **The 2026 Fields Medals, through a calculus lens.** Two of the four medals went to analysts. Meet [[Hong Wang]] and the needle-turning [[Kakeya Conjecture]] (3D proof posted in 2025 with Joshua Zahl), and [[Yu Deng]], whose work on [[Hilbert Sixth Problem|Hilbert's sixth problem]] aims to derive fluid equations from colliding particles (a preprint, still labeled as a claim).

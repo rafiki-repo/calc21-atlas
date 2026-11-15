@@ -1,7 +1,7 @@
 ---
 type: glossary
 status: draft
-updated: 2026-11-14
+updated: 2026-11-15
 sources: unverified-seed
 ---
 
@@ -27,13 +27,16 @@ A function is continuous if you can draw its graph without lifting your pencil: 
 ### Convergence
 A sequence or series *converges* if it settles toward a single finite value. If it doesn't, it *diverges*. See [[Basel Problem]].
 
+### Counterexample
+A single specific case that shows a general claim is false. One is enough. See [[Jacobian Conjecture]].
+
 ## D
 
 ### Derivative
 The instantaneous rate of change of a function; the slope of its graph at a point.
 
 ### Differential equation
-An equation involving a function and its derivatives. Solving it means finding the function. See [[Navier-Stokes Smoothness Problem]] for a famous unsolved case.
+An equation involving a function and its derivatives. Solving it means finding the function. See [[Navier-Stokes Smoothness Problem]] for a famous case, and a contested 2026 claim.
 
 ## F
 
@@ -61,6 +64,11 @@ A quantity smaller than any positive number but not zero. Central to early calcu
 ### Integral
 The accumulated total of a changing quantity; the area under a curve. The *definite* integral gives a number; the *indefinite* integral gives a family of antiderivatives.
 
+## J
+
+### Jacobian
+For a map with several inputs and outputs, the Jacobian is the grid (matrix) of all its partial derivatives, the multivariable version of the derivative. Its determinant measures how the map stretches or squashes volume near a point. See [[Jacobian Conjecture]].
+
 ## L
 
 ### Limit
@@ -76,6 +84,11 @@ A [[Glossary#Differential equation|differential equation]] whose unknown functio
 
 ### Proof assistant
 Software, such as Lean, that checks proofs step by step against strict logical rules. It confirms the logic, but not whether the statement says what was intended. See [[Proof Assistants and Lean]].
+
+## R
+
+### Riemann sum
+An approximation of an integral made by chopping an interval into thin strips and adding up their areas. As the strips get thinner, the sum approaches the integral. Competition problems sometimes hide one inside a limit; see [[MIT Integration Bee]].
 
 ## S
 
