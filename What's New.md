@@ -1,12 +1,18 @@
 ---
 type: changelog
 status: draft
-updated: 2026-11-15
+updated: 2026-11-16
 ---
 
 # What's New
 
 Latest additions and changes to the Atlas, newest first. Back to [[Home]].
+
+## 2026-11-16
+- **Applications opens.** The section's first three notes: [[Backpropagation and the Chain Rule]] (how neural networks learn), the [[SIR Epidemic Model]] (thresholds, final size, and herd immunity), and [[Weather Forecasting]] (from Richardson's 1922 hand calculation to ECMWF's machine-learning model, which has run alongside the physics model since Feb 2025).
+- **First educator profile:** [[Grant Sanderson]] of 3Blue1Brown. The [[Resources]] page gets a videos shelf.
+- **Source-checked:** [[Fundamental Theorem of Calculus]] (exact statements and conditions, plus who found it) and [[Newton vs Leibniz]] (a dated timeline, including the Royal Society report Newton wrote himself). All five seed notes are now checked.
+- **New trail:** "Calculus at work" in [[Rabbit Holes]]. The [[Glossary]] adds *chain rule* and *gradient descent*.
 
 ## 2026-11-15
 - **Status corrections.** Two open-problem notes were out of date. [[Jacobian Conjecture]]: an AI-assisted counterexample disproved it in 3 and more dimensions (July 2026). The 2D case is still open. [[Navier-Stokes Smoothness Problem]]: OpenAI claims a Lean-checked proof of forced blow-up (Sep 2026). It is still under review, and Clay lists the problem as "active". [[AI as Research Collaborator]] and [[Research Watch]] are updated to match.

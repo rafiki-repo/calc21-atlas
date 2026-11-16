@@ -1,7 +1,7 @@
 ---
 type: hub
 status: draft
-updated: 2026-11-14
+updated: 2026-11-16
 ---
 
 # People
@@ -20,4 +20,4 @@ Each person note says **what they contributed or are known for**, with sources, 
 - [[Yu Deng]]: 2026 Fields Medalist; derives fluid and kinetic equations from particle dynamics
 
 ### Educators and communicators
-*(Coming soon.)*
+- [[Grant Sanderson]]: creator of 3Blue1Brown and its *Essence of Calculus* series

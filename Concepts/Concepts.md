@@ -22,4 +22,6 @@ The core ideas of calculus, kept short. Each note gives the intuition, the commo
 
 - [[Fundamental Theorem of Calculus]]
 
+Seeing these ideas at work: [[Applications]].
+
 Unfamiliar word? See the [[Glossary]].

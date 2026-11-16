@@ -37,6 +37,7 @@ The evidence is still thin and mostly from preprints or vendors, but some consis
 - [[AI as Research Collaborator]]: AlphaEvolve, a fallen conjecture, and the contested Navier-Stokes claim
 - [[Terence Tao]]: a central figure in both analysis and AI-assisted math
 - [[Widening Access to Calculus]]: AI tutors arriving in free college courseware
+- [[Backpropagation and the Chain Rule]]: the calculus inside the machines
 
 ## Sources (checked 2026-11-13)
 

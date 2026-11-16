@@ -1,7 +1,7 @@
 ---
 type: glossary
 status: draft
-updated: 2026-11-15
+updated: 2026-11-16
 sources: unverified-seed
 ---
 
@@ -21,6 +21,9 @@ Using AI to translate ordinary written math into a formal language that a [[Glos
 
 ## C
 
+### Chain rule
+The rule for differentiating a function inside another function: multiply the rates of change of each link in the chain. It is the engine of neural-network training; see [[Backpropagation and the Chain Rule]].
+
 ### Continuity
 A function is continuous if you can draw its graph without lifting your pencil: small changes in the input cause only small changes in the output.
 
@@ -36,7 +39,7 @@ A single specific case that shows a general claim is false. One is enough. See [
 The instantaneous rate of change of a function; the slope of its graph at a point.
 
 ### Differential equation
-An equation involving a function and its derivatives. Solving it means finding the function. See [[Navier-Stokes Smoothness Problem]] for a famous case, and a contested 2026 claim.
+An equation involving a function and its derivatives. Solving it means finding the function. Everyday examples: [[SIR Epidemic Model]], [[Weather Forecasting]]. See [[Navier-Stokes Smoothness Problem]] for a famous case, and a contested 2026 claim.
 
 ## F
 
@@ -50,6 +53,9 @@ Breaking a complicated signal or function into a sum of simple waves (sines and 
 
 ### Gradient
 For a function of several variables, the vector of its partial derivatives. It points in the direction of steepest increase. See [[CalcPlot3D]] to see one.
+
+### Gradient descent
+A way to minimize a function by repeatedly taking a small step in the direction opposite the [[Glossary#Gradient|gradient]], i.e. downhill. See [[Backpropagation and the Chain Rule]].
 
 ## H
 

@@ -1,7 +1,7 @@
 ---
 type: hub
 status: draft
-updated: 2026-11-15
+updated: 2026-11-16
 ---
 
 # Resources
@@ -22,6 +22,10 @@ The best places to learn, explore, and compute. Back to [[Home]].
 
 - [[CalcPlot3D]]: spin surfaces and vector fields in the browser (free)
 
+## Videos and channels
+
+- 3Blue1Brown: visual explainers, including *Essence of Calculus* (free). See [[Grant Sanderson]].
+
 ## Rigorous and formal
 
 - [[Lean Companion to Analysis I]]: an undergraduate analysis course written in machine-checkable form (free)
@@ -38,4 +42,3 @@ The best places to learn, explore, and compute. Back to [[Home]].
 ## Still to map
 
 - **Software:** graphing calculators and computer algebra
-- **Videos and channels**

@@ -1,7 +1,7 @@
 ---
 type: hub
 status: draft
-updated: 2026-11-15
+updated: 2026-11-16
 ---
 
 # Rabbit Holes
@@ -65,9 +65,17 @@ Guided trails through the Atlas. Pick one and just keep clicking. Each trail cro
 4. [[Putnam Competition]] — twelve proofs in six hours
 5. [[Calculus and AI]] — when the machines entered the Putnam too
 
+## Trail 8: Calculus at work
+
+1. [[Fundamental Theorem of Calculus]]: the one idea everything below leans on
+2. [[Weather Forecasting]]: 64,000 imaginary human computers, then real ones
+3. [[SIR Epidemic Model]]: why outbreaks stop before everyone is infected
+4. [[Backpropagation and the Chain Rule]]: the chain rule, run millions of times inside AI
+5. [[Grant Sanderson]]: the animator who makes these ideas visible
+
 ---
 
 ## Trails we want to build
 
-- **Who's who now:** today's voices in analysis and in explaining calculus
+- **Who's who now:** today's voices in analysis and in explaining calculus (started: [[Grant Sanderson]], [[Terence Tao]])
 - **Strange calculi:** fractional, non-standard, and discrete versions

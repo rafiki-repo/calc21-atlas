@@ -1,7 +1,7 @@
 ---
 type: hub
 status: draft
-updated: 2026-11-15
+updated: 2026-11-16
 ---
 
 # Calc21 Atlas
@@ -43,6 +43,8 @@ Calculus is **two ideas and one surprise**. The first idea: you can measure *how
 - **Can integration be a spectator sport?** → [[MIT Integration Bee]]
 - **How little space do you need to turn a needle around? (A 2026 Fields Medal says: tricky.)** → [[Kakeya Conjecture]]
 - **Can you derive the laws of fluids from billiard balls?** → [[Hilbert Sixth Problem]]
+- **How does a neural network learn? (Answer: a rule from first-year calculus.)** → [[Backpropagation and the Chain Rule]]
+- **Why does an epidemic burn out before everyone catches it?** → [[SIR Epidemic Model]]
 
 ---
 

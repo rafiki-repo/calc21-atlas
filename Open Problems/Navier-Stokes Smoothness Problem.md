@@ -41,6 +41,7 @@ It is a question about **[[Glossary#Partial differential equation (PDE)|PDEs]]**
 
 ## Next stop
 
+- [[Weather Forecasting]]: where cousins of these equations are solved numerically every day
 - [[AI as Research Collaborator]]: how AI got here
 - [[Proof Assistants and Lean]]: what a Lean check does and doesn't prove
 - [[Jacobian Conjecture]]: another 2026 AI-assisted shock, this one a counterexample
