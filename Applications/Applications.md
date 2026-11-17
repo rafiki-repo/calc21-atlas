@@ -1,7 +1,7 @@
 ---
 type: hub
 status: draft
-updated: 2026-11-16
+updated: 2026-11-17
 ---
 
 # Applications
@@ -18,11 +18,15 @@ Calculus out in the world: physics, engineering, biology, economics, and machine
 
 - [[SIR Epidemic Model]]: three differential equations, a threshold, and herd immunity
 
+## Economics and finance
+
+- [[Black-Scholes Equation]]: pricing options with a PDE that turns into the heat equation
+
 ## Physics and the planet
 
 - [[Weather Forecasting]]: from a 1922 hand calculation to machine-learning models run alongside the physics
 
 ## Still to map
 
-- **Economics and finance:** marginal analysis, optimization, and the Black-Scholes equation
+- **Economics:** marginal analysis and optimization
 - **Engineering:** control, signals, and structures

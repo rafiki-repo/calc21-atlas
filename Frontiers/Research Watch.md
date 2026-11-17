@@ -1,7 +1,7 @@
 ---
 type: map
 status: draft
-updated: 2026-11-15
+updated: 2026-11-17
 last_checked: 2026-11-15
 tags: [research, prizes, analysis, pde]
 sources: [simonsfoundation.org, arxiv.org, plus.maths.org, scientificamerican.com, ias.edu]
@@ -17,7 +17,7 @@ Status labels: **published** (refereed journal), **preprint** (arXiv, not yet re
 
 | Result | Who | Status | Atlas note |
 |---|---|---|---|
-| Forced 3D Navier-Stokes blow-up | OpenAI (AI agents), building on Córdoba and Martínez-Zoroa | Claimed (Sep 2026), Lean-checked, human review ongoing. Clay lists the problem as "active" | [[Navier-Stokes Smoothness Problem]] |
+| Forced 3D Navier-Stokes blow-up | OpenAI (AI agents), building on Córdoba and Martínez-Zoroa | Claimed (Sep 2026), Lean-checked, human review ongoing. An Oct 2026 preprint disputes that the Lean and written proofs match. Clay lists the problem as "active" | [[Navier-Stokes Smoothness Problem]] |
 | Jacobian conjecture false in dimension 3 and up | Levent Alpöge, with AI | Counterexample (Jul 2026), independently checked and formally verified. 2D still open | [[Jacobian Conjecture]] |
 | Kakeya conjecture in 3D | Hong Wang, Joshua Zahl | Preprint (Feb 2025), named in a 2026 Fields Medal citation | [[Kakeya Conjecture]] |
 | Fluid equations derived from particles via Boltzmann | Yu Deng, Zaher Hani, Xiao Ma | Preprint (Mar 2025), claimed | [[Hilbert Sixth Problem]] |

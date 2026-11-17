@@ -1,7 +1,7 @@
 ---
 type: glossary
 status: draft
-updated: 2026-11-16
+updated: 2026-11-17
 sources: unverified-seed
 ---
 
@@ -18,6 +18,10 @@ A function whose derivative is the one you started with. Not unique: adding a co
 
 ### Autoformalization
 Using AI to translate ordinary written math into a formal language that a [[Glossary#Proof assistant|proof assistant]] can check. See [[Proof Assistants and Lean]].
+
+## B
+### Brownian motion
+The random, jittery path of a small particle knocked about by molecules, and the mathematical model of it. The path is continuous but has no slope anywhere. See [[Stochastic Calculus]].
 
 ## C
 
@@ -49,6 +53,9 @@ A proof written in a precise language in which software can check every step. Se
 ### Fourier analysis
 Breaking a complicated signal or function into a sum of simple waves (sines and cosines), then studying it piece by piece. The wider field is called *harmonic analysis*. See [[Kakeya Conjecture]].
 
+### Fractional derivative
+A derivative of non-whole order, such as a half derivative: do it twice and you get the ordinary derivative. Unlike the ordinary kind, it depends on the function's whole history back to a starting point. See [[Fractional Calculus]].
+
 ## G
 
 ### Gradient
@@ -65,7 +72,7 @@ A way to give a size-exponent to irregular sets such as fractals: a line has dim
 ## I
 
 ### Infinitesimal
-A quantity smaller than any positive number but not zero. Central to early calculus (see [[Newton vs Leibniz]]); modern treatments mostly replace it with limits, though non-standard analysis revives it rigorously.
+A quantity smaller than any positive number but not zero. Central to early calculus (see [[Newton vs Leibniz]]); modern treatments mostly replace it with limits, though [[Nonstandard Analysis]] revives it rigorously.
 
 ### Integral
 The accumulated total of a changing quantity; the area under a curve. The *definite* integral gives a number; the *indefinite* integral gives a family of antiderivatives.

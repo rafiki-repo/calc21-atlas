@@ -1,7 +1,7 @@
 ---
 type: hub
 status: draft
-updated: 2026-11-16
+updated: 2026-11-17
 ---
 
 # Calc21 Atlas
@@ -45,6 +45,9 @@ Calculus is **two ideas and one surprise**. The first idea: you can measure *how
 - **Can you derive the laws of fluids from billiard balls?** → [[Hilbert Sixth Problem]]
 - **How does a neural network learn? (Answer: a rule from first-year calculus.)** → [[Backpropagation and the Chain Rule]]
 - **Why does an epidemic burn out before everyone catches it?** → [[SIR Epidemic Model]]
+- **What is half of a derivative?** → [[Fractional Calculus]]
+- **How do you do calculus on a path with no slope anywhere?** → [[Stochastic Calculus]]
+- **Were the founders' "infinitely small numbers" nonsense after all?** → [[Nonstandard Analysis]]
 
 ---
 

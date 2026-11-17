@@ -1,7 +1,7 @@
 ---
 type: topic
 status: draft
-updated: 2026-11-13
+updated: 2026-11-17
 last_checked: 2026-11-13
 tags: [ai, lean, formalization, proof-assistants]
 sources: [leanprover-community.github.io, teorth.github.io, math-inc.github.io, techcrunch.com]
@@ -32,7 +32,7 @@ A **proof assistant** is software that checks a proof line by line against stric
 
 ## The fine print
 
-- Lean checks that a proof proves **the statement as written in Lean**. If that statement mistranslates the original theorem, the check is meaningless. Reviewing the statements is still human work.
+- Lean checks that a proof proves **the statement as written in Lean**. If that statement mistranslates the original theorem, the check is meaningless. Reviewing the statements is still human work. A live example: an Oct 2026 preprint argues that the Lean version of OpenAI's Navier-Stokes proof does not match the written one (see [[Navier-Stokes Smoothness Problem]]).
 - Formal proof says nothing about originality or who deserves credit.
 
 ## Next stop

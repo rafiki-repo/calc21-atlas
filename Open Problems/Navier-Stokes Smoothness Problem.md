@@ -1,8 +1,8 @@
 ---
 type: open-problem
 status: draft
-updated: 2026-11-15
-last_checked: 2026-11-15
+updated: 2026-11-17
+last_checked: 2026-11-17
 tags: [pde, millennium-prize, ai]
 sources: [claymath.org, quantamagazine.org, sciencenews.org, arxiv.org]
 ---
@@ -20,8 +20,8 @@ The Navier-Stokes equations model fluid motion. In three dimensions, can a smoot
 - **The claim (Sep 8, 2026):** OpenAI announced a proof of finite-time blow-up for the 3D equations **with a smooth outside force** (the "forced" version). It came with a 166-page paper and a **Lean** formalization. Quanta reports the work came from about 10,000 AI agents running an unreleased model for 88 hours.
 - **Built on human work:** both Quanta and Science News report that the AI efforts leaned heavily on a strategy by **Diego Córdoba** and **Luis Martínez-Zoroa**. Charles Fefferman, who wrote the official problem statement, credited them as "the heroes".
 - **A day earlier:** Tristan Buckmaster (NYU) and Levent Alpöge (Anthropic) reported AI-assisted, Lean-checked blow-up for the related **forced Euler** equations (fluids without viscosity).
-- **Checking:** a Lean check confirms only the statement that was formalized. People still have to confirm that it matches the intended theorem. An October 2026 arXiv preprint reports mismatches between OpenAI's Lean proof and its written proof. As of Science News's report, no one had finished a full human review.
-- **Prize:** OpenAI says it will not claim the prize. Clay requires peer-reviewed publication and still lists the problem as **"active"**, with no solver acknowledged as of last check.
+- **Checking:** a Lean check confirms only the statement that was formalized. People still have to confirm that it matches the intended theorem. A preprint by Bastounis, Circelli and Hansen ([arXiv 2610.08144](https://arxiv.org/abs/2610.08144), Oct 6, 2026; not peer reviewed) argues that OpenAI's Lean formalization **does not match** its written proof. It also argues, more generally, that Lean checking of AI translations gives little confidence in the original text. As of Science News's report, no one had finished a full human review.
+- **Prize:** OpenAI says it will not claim the prize. On Sep 11, 2026, Clay [posted a short statement](https://www.claymath.org/news/navier-stokes-announcement/) about the announcement that the problem "has apparently been settled". It named no one and said its evaluation process "is deliberately unhurried". Clay requires peer-reviewed publication and still lists the problem as **"active"**, with no solver acknowledged as of last check.
 - **Credit:** there is a public dispute over priority and over whether the work drew on other researchers' AI sessions. OpenAI denies that it did.
 - **Not settled:** whether *unforced* blow-up happens, the version many analysts consider the heart of the matter.
 
@@ -33,9 +33,10 @@ The Navier-Stokes equations model fluid motion. In three dimensions, can a smoot
 
 It is a question about **[[Glossary#Partial differential equation (PDE)|PDEs]]** and about what "[[Glossary#Smooth|smooth]]" really guarantees. Physically, little changes: real fluids are made of molecules, so the equations already stop applying at tiny scales.
 
-## Sources (checked 2026-11-15)
+## Sources (checked 2026-11-15; Clay and arXiv items 2026-11-17)
 
-- [Clay Institute problem page](https://www.claymath.org/millennium/navier-stokes-equation/) (status "active")
+- [Clay Institute problem page](https://www.claymath.org/millennium/navier-stokes-equation/) (status "active") and [Clay's Sep 11, 2026 announcement](https://www.claymath.org/news/navier-stokes-announcement/)
+- [Navier-Stokes lost in translation](https://arxiv.org/abs/2610.08144), Bastounis, Circelli, Hansen, arXiv preprint, Oct 6, 2026
 - [AI Has Solved One of Math's $1 Million Millennium Prize Problems](https://www.quantamagazine.org/ai-has-solved-one-of-maths-1-million-millennium-prize-problems-20260908/), Quanta, Sep 8, 2026. The headline says "solved", but the article says the result still has to hold up to scrutiny.
 - [AI may have solved one of math's biggest puzzles, raising controversy](https://www.sciencenews.org/article/ai-math-puzzle-navier-stokes-openai), Science News, Sep 9, 2026
 

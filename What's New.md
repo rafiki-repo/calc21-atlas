@@ -1,12 +1,18 @@
 ---
 type: changelog
 status: draft
-updated: 2026-11-16
+updated: 2026-11-17
 ---
 
 # What's New
 
 Latest additions and changes to the Atlas, newest first. Back to [[Home]].
+
+## 2026-11-17
+- **Strange calculi arrive.** Three new [[Frontiers]] notes: [[Fractional Calculus]] (half derivatives, and why they remember the past), [[Stochastic Calculus]] (Kiyosi Itô's calculus for random paths), and [[Nonstandard Analysis]] (infinitesimals made rigorous, with a free textbook built on them).
+- **New application:** the [[Black-Scholes Equation]] for pricing options, which turns into the heat equation.
+- **Navier-Stokes update:** [[Navier-Stokes Smoothness Problem]] now quotes Clay's Sep 11 statement (it reports that the problem "has apparently been settled" and calls its review "deliberately unhurried") and an Oct 2026 preprint arguing that OpenAI's Lean proof and written proof don't match. The problem is still listed as active.
+- **New trail:** "Strange calculi" in [[Rabbit Holes]]. The [[Glossary]] adds *Brownian motion* and *fractional derivative*.
 
 ## 2026-11-16
 - **Applications opens.** The section's first three notes: [[Backpropagation and the Chain Rule]] (how neural networks learn), the [[SIR Epidemic Model]] (thresholds, final size, and herd immunity), and [[Weather Forecasting]] (from Richardson's 1922 hand calculation to ECMWF's machine-learning model, which has run alongside the physics model since Feb 2025).

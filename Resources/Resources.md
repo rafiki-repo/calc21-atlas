@@ -1,7 +1,7 @@
 ---
 type: hub
 status: draft
-updated: 2026-11-16
+updated: 2026-11-17
 ---
 
 # Resources
@@ -13,10 +13,12 @@ The best places to learn, explore, and compute. Back to [[Home]].
 ## Textbooks
 
 - [[Free Calculus Textbooks]]: OpenStax and Active Calculus compared (free, open-licensed)
+- Keisler's *Elementary Calculus: An Infinitesimal Approach*: first-year calculus done with infinitesimals instead of limits (free online). See [[Nonstandard Analysis]].
 
 ## Courses and lectures
 
 - [[MIT OCW Single Variable Calculus]]: a full MIT semester built for self-study (free)
+- MIT 18.642 stochastic calculus lectures: Itô's formula through Black-Scholes (free, advanced). See [[Stochastic Calculus]].
 
 ## Visualizations and interactive tools
 

@@ -1,7 +1,7 @@
 ---
 type: hub
 status: draft
-updated: 2026-11-13
+updated: 2026-11-17
 ---
 
 # Concepts
@@ -22,6 +22,6 @@ The core ideas of calculus, kept short. Each note gives the intuition, the commo
 
 - [[Fundamental Theorem of Calculus]]
 
-Seeing these ideas at work: [[Applications]].
+Seeing these ideas at work: [[Applications]]. Stretching them into stranger shapes (half derivatives, random paths, true infinitesimals): [[Frontiers#Strange calculi]].
 
 Unfamiliar word? See the [[Glossary]].

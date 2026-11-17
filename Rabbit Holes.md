@@ -1,7 +1,7 @@
 ---
 type: hub
 status: draft
-updated: 2026-11-16
+updated: 2026-11-17
 ---
 
 # Rabbit Holes
@@ -73,9 +73,17 @@ Guided trails through the Atlas. Pick one and just keep clicking. Each trail cro
 4. [[Backpropagation and the Chain Rule]]: the chain rule, run millions of times inside AI
 5. [[Grant Sanderson]]: the animator who makes these ideas visible
 
+## Trail 9: Strange calculi
+
+1. [[Fundamental Theorem of Calculus]]: the ordinary rules, before we bend them
+2. [[Fractional Calculus]]: a half derivative, and a 1695 letter calling it a paradox
+3. [[Nonstandard Analysis]]: the infinitesimals Berkeley mocked, made rigorous
+4. [[Stochastic Calculus]]: calculus on a path with no slope anywhere
+5. [[Black-Scholes Equation]]: where random-path calculus went to Wall Street
+
 ---
 
 ## Trails we want to build
 
 - **Who's who now:** today's voices in analysis and in explaining calculus (started: [[Grant Sanderson]], [[Terence Tao]])
-- **Strange calculi:** fractional, non-standard, and discrete versions
+- **Strange calculi, part 2:** discrete calculus and q-calculus

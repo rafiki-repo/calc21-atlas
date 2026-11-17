@@ -1,12 +1,12 @@
 ---
 type: hub
 status: draft
-updated: 2026-11-14
+updated: 2026-11-17
 ---
 
 # Frontiers
 
-Newer and stranger corners: fractional, non-standard, discrete, and stochastic calculus, plus calculus meeting AI and proof assistants. Back to [[Home]].
+Newer and stranger corners: unusual versions of calculus, plus calculus meeting AI and proof assistants. Back to [[Home]].
 
 ## Calculus meets AI
 
@@ -20,4 +20,10 @@ Newer and stranger corners: fractional, non-standard, discrete, and stochastic c
 
 ## Strange calculi
 
-*(Fractional, non-standard, discrete, and stochastic calculus: notes coming.)*
+Versions of calculus built for jobs the ordinary kind can't do.
+
+- [[Fractional Calculus]]: half derivatives, and derivatives with memory
+- [[Stochastic Calculus]]: Itô's calculus for random, jittery paths
+- [[Nonstandard Analysis]]: infinitely small numbers, made rigorous in the 1960s
+
+*Still to map:* discrete calculus (finite differences) and q-calculus.
