@@ -1,7 +1,7 @@
 ---
 type: hub
 status: draft
-updated: 2026-11-17
+updated: 2026-11-18
 ---
 
 # Rabbit Holes
@@ -81,9 +81,18 @@ Guided trails through the Atlas. Pick one and just keep clicking. Each trail cro
 4. [[Stochastic Calculus]]: calculus on a path with no slope anywhere
 5. [[Black-Scholes Equation]]: where random-path calculus went to Wall Street
 
+## Trail 10: Calculus before calculus
+
+1. [[Archimedes Palimpsest]]: slicing shapes on a lever, rescued from under a prayer book
+2. [[Kerala School]]: π, sine, and cosine as infinite series, around 1400
+3. [[Newton vs Leibniz]]: Europe's version, and its credit fight
+4. [[Fundamental Theorem of Calculus]]: the link the forerunners did not state in general
+5. [[Nonstandard Analysis]]: the infinitely small, finally made rigorous
+
 ---
 
 ## Trails we want to build
 
 - **Who's who now:** today's voices in analysis and in explaining calculus (started: [[Grant Sanderson]], [[Terence Tao]])
 - **Strange calculi, part 2:** discrete calculus and q-calculus
+- **Calculus before calculus, part 2:** Ibn al-Haytham, Cavalieri, Fermat

@@ -1,7 +1,7 @@
 ---
 type: glossary
 status: draft
-updated: 2026-11-17
+updated: 2026-11-18
 sources: unverified-seed
 ---
 
@@ -87,6 +87,11 @@ For a map with several inputs and outputs, the Jacobian is the grid (matrix) of 
 ### Limit
 The value a function approaches as its input approaches some point. The idea that makes "instantaneous" meaningful.
 
+## M
+
+### Method of exhaustion
+The ancient Greek way to find a curved area or volume without limits: trap it between simpler shapes from inside and outside, and show that any other answer leads to a contradiction. Archimedes used it to prove results he had first found by slicing. See [[Archimedes Palimpsest]].
+
 ## P
 
 ### Partial derivative
@@ -94,6 +99,9 @@ The derivative of a multivariable function with respect to one variable, holding
 
 ### Partial differential equation (PDE)
 A [[Glossary#Differential equation|differential equation]] whose unknown function depends on several variables, such as position and time. Heat, waves, and fluids are all described by PDEs. See [[Hilbert Sixth Problem]].
+
+### Power series
+An "infinite polynomial" a₀ + a₁x + a₂x² + ..., such as the series for sine or cosine. Found for trigonometric functions in Kerala around 1400 and in Europe in the 17th century. See [[Kerala School]] and [[Glossary#Series|Series]].
 
 ### Proof assistant
 Software, such as Lean, that checks proofs step by step against strict logical rules. It confirms the logic, but not whether the statement says what was intended. See [[Proof Assistants and Lean]].

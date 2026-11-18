@@ -1,12 +1,19 @@
 ---
 type: changelog
 status: draft
-updated: 2026-11-17
+updated: 2026-11-18
 ---
 
 # What's New
 
 Latest additions and changes to the Atlas, newest first. Back to [[Home]].
+
+## 2026-11-18
+- **Calculus before calculus.** Two new [[Stories]]: the [[Archimedes Palimpsest]] (Archimedes' slicing method survives in one copy, under a prayer book; a lost page turned up in Blois, France, in March 2026), and the [[Kerala School]] (Madhava's series for π, sine, and cosine around 1400, an 1834 paper that was ignored, and a Europe-transmission idea that has no documentary evidence so far).
+- **New person:** [[Kiyosi Ito|Kiyosi Itô]], who built [[Stochastic Calculus]].
+- **Navier-Stokes update:** [[Navier-Stokes Smoothness Problem]] adds *Scientific American*'s report on the forced-vs-unforced question ("The most important problem is unsolved," says Luis Silvestre).
+- **Fixed:** [[Black-Scholes Equation]] now gives Fischer Black's death (1995) and why he could not share the 1997 prize.
+- **New trail:** "Calculus before calculus" in [[Rabbit Holes]]. The [[Glossary]] adds *method of exhaustion* and *power series*.
 
 ## 2026-11-17
 - **Strange calculi arrive.** Three new [[Frontiers]] notes: [[Fractional Calculus]] (half derivatives, and why they remember the past), [[Stochastic Calculus]] (Kiyosi Itô's calculus for random paths), and [[Nonstandard Analysis]] (infinitesimals made rigorous, with a free textbook built on them).

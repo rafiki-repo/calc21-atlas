@@ -1,7 +1,7 @@
 ---
 type: story
 status: solid
-updated: 2026-11-16
+updated: 2026-11-18
 last_checked: 2026-11-16
 tags: [history, priority-dispute]
 sources: [mathshistory.st-andrews.ac.uk]
@@ -30,7 +30,7 @@ MacTutor's biographies describe Leibniz's work as an **independent discovery**, 
 
 ## Worth knowing
 
-Both built on earlier work (Barrow, Fermat, Cavalieri, and others). Neither made calculus rigorous. Leibniz never thought of the derivative as a limit; that came later, and full rigor took until the 19th century.
+Both built on earlier work (Barrow, Fermat, Cavalieri, and others). Some of their results had been found long before: Archimedes summed thin slices in the 3rd century BCE (see [[Archimedes Palimpsest]]), and the [[Kerala School]] had series for sine, cosine, and π by about 1400. Neither Newton nor Leibniz knew of the Kerala work, as far as the surviving evidence shows. Neither made calculus rigorous. Leibniz never thought of the derivative as a limit; that came later, and full rigor took until the 19th century.
 
 ## Go deeper
 
@@ -41,5 +41,6 @@ Both built on earlier work (Barrow, Fermat, Cavalieri, and others). Neither made
 
 - [[Fundamental Theorem of Calculus]]: the connection both of them used
 - [[Feynman Integration Trick]]: a Leibniz technique that Feynman made famous
+- [[Kerala School]]: π as an infinite series, centuries earlier
 - [[Stories]]
 - [[People]]

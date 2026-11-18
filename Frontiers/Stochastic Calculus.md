@@ -1,7 +1,7 @@
 ---
 type: concept
 status: draft
-updated: 2026-11-17
+updated: 2026-11-18
 last_checked: 2026-11-17
 tags: [strange-calculi, stochastic-calculus, probability, finance]
 sources: [mathunion.org, ocw.mit.edu]
@@ -23,7 +23,7 @@ So if a quantity is pushed by both ordinary forces and random kicks, the usual d
 
 ## Itô's fix
 
-Starting in the 1940s, **Kiyosi Itô** (1915–2008) developed **stochastic analysis**: a way to define integrals against random paths and to write **stochastic differential equations** (SDEs). An SDE is a differential equation that includes a noise term.
+Starting in the 1940s, **[[Kiyosi Ito|Kiyosi Itô]]** (1915–2008) developed **stochastic analysis**: a way to define integrals against random paths and to write **stochastic differential equations** (SDEs). An SDE is a differential equation that includes a noise term.
 
 The key change is to the chain rule. Over a short time *dt*, a random kick is about the size of √*dt*. Its square is about *dt*, which is too big to throw away. **Itô's formula** is the chain rule with an extra second-derivative term that captures this. Shorthand: (*dB*)² = *dt*.
 

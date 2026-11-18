@@ -1,10 +1,10 @@
 ---
 type: application
 status: draft
-updated: 2026-11-17
-last_checked: 2026-11-17
+updated: 2026-11-18
+last_checked: 2026-11-18
 tags: [finance, economics, pde, stochastic-calculus]
-sources: [frbsf.org, ocw.mit.edu, tobydriscoll.net, mathunion.org]
+sources: [frbsf.org, ocw.mit.edu, tobydriscoll.net, mathunion.org, news.mit.edu]
 ---
 
 # Black-Scholes Equation
@@ -28,7 +28,7 @@ It is solved **backward in time** from the known payoff at the expiry date. A ch
 ## Who and when
 
 - **1973:** Fischer Black and Myron Scholes published the formula. Robert C. Merton published a paper the same year with the formula and extensions. Organized options trading began in Chicago that year too.
-- **1997:** Merton and Scholes received the Nobel Memorial Prize in Economic Sciences. Fischer Black had died before the award.
+- **1997:** Merton and Scholes received the Nobel Memorial Prize in Economic Sciences. Fischer Black, who taught at MIT's Sloan School from 1975 to 1984, had died in 1995 at 57, and Nobel Prizes are not awarded posthumously ([MIT News, 1997](https://news.mit.edu/1997/nobels-1022)).
 
 ## The fine print
 

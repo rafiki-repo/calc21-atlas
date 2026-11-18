@@ -1,7 +1,7 @@
 ---
 type: hub
 status: draft
-updated: 2026-11-17
+updated: 2026-11-18
 ---
 
 # Calc21 Atlas
@@ -48,6 +48,8 @@ Calculus is **two ideas and one surprise**. The first idea: you can measure *how
 - **What is half of a derivative?** → [[Fractional Calculus]]
 - **How do you do calculus on a path with no slope anywhere?** → [[Stochastic Calculus]]
 - **Were the founders' "infinitely small numbers" nonsense after all?** → [[Nonstandard Analysis]]
+- **Who had π as an infinite sum centuries before Leibniz?** → [[Kerala School]]
+- **How did Archimedes' calculus-like method survive? Under a prayer book.** → [[Archimedes Palimpsest]]
 
 ---
 
