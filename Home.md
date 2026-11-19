@@ -1,7 +1,7 @@
 ---
 type: hub
 status: draft
-updated: 2026-11-18
+updated: 2026-11-19
 ---
 
 # Calc21 Atlas
@@ -50,6 +50,8 @@ Calculus is **two ideas and one surprise**. The first idea: you can measure *how
 - **Were the founders' "infinitely small numbers" nonsense after all?** → [[Nonstandard Analysis]]
 - **Who had π as an infinite sum centuries before Leibniz?** → [[Kerala School]]
 - **How did Archimedes' calculus-like method survive? Under a prayer book.** → [[Archimedes Palimpsest]]
+- **Does high school calculus actually matter for college, or just for admissions?** → [[Calculus or Statistics Debate]]
+- **Which calculus book is still in print after more than a century?** → [[Calculus Made Easy]]
 
 ---
 

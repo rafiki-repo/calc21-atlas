@@ -26,6 +26,7 @@ sources: [learnvia.org, news.mit.edu, blog.khanacademy.org]
 
 ## Next stop
 
+- [[Calculus or Statistics Debate]]: the argument over whether calculus should be the gateway at all
 - [[Free Calculus Textbooks]]: the zero-cost reading list
 - [[Calculus and AI]]: why an AI tutor can be fluent and still wrong
 - [[Education]]

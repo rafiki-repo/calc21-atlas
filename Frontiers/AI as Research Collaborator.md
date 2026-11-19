@@ -23,10 +23,10 @@ A DeepMind-led team, working with researchers at Brown, NYU, and Stanford, used 
 OpenAI published hundreds of manuscripts from an unreleased internal model, claiming full or partial solutions to open problems, including some in differential equations. According to secondary reporting, about **42%** of top-line results had Lean-checked proofs as of Oct 7, three manuscripts were withdrawn after a sign error, and the totals vary by outlet. Mathematicians quoted in coverage raised concerns about credit, overlap with unpublished human work, and how much the field can realistically review. **Status: claims under community review.**
 
 **4. A conjecture falls (Jul 2026)**
-Levent Alpöge announced a counterexample to the 87-year-old [[Jacobian Conjecture]] in three dimensions, found with an Anthropic Claude model. It is a short polynomial map that anyone can check, and several mathematicians and an Isabelle formal proof did. The two-dimensional case remains open.
+[[Levent Alpoge|Levent Alpöge]] announced a counterexample to the 87-year-old [[Jacobian Conjecture]] in three dimensions, found with an Anthropic Claude model. It is a short polynomial map that anyone can check, and several mathematicians and an Isabelle formal proof did. The two-dimensional case remains open.
 
 **5. The Navier-Stokes claim (Sep 2026)**
-OpenAI claimed a Lean-checked proof that the forced 3D Navier-Stokes equations can blow up. The work built on a human strategy by Córdoba and Martínez-Zoroa and arrived amid a credit dispute with Buckmaster and Alpöge's forced-Euler result. **Status: claimed, under review.** See [[Navier-Stokes Smoothness Problem]].
+OpenAI claimed a Lean-checked proof that the forced 3D Navier-Stokes equations can blow up. The work built on a human strategy by [[Cordoba and Martinez-Zoroa|Córdoba and Martínez-Zoroa]] and arrived amid a credit dispute with Buckmaster and Alpöge's forced-Euler result. **Status: claimed, under review.** See [[Navier-Stokes Smoothness Problem]].
 
 ## The pattern
 

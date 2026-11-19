@@ -1,12 +1,18 @@
 ---
 type: changelog
 status: draft
-updated: 2026-11-18
+updated: 2026-11-19
 ---
 
 # What's New
 
 Latest additions and changes to the Atlas, newest first. Back to [[Home]].
+
+## 2026-11-19
+- **Calculus in public.** Two new notes on the culture around calculus. [[Calculus Made Easy]] is Silvanus Thompson's 1910 book for the terrified, still in print and free online. The [[Calculus or Statistics Debate]] covers whether high school calculus is the ticket to college: a Texas study found similar long-term earnings, Caltech changed its rules in 2023, and the evidence is still thin.
+- **The people behind the 2026 shocks.** New profiles of [[Levent Alpoge|Levent Alpöge]] (the Jacobian counterexample, announced in a one-line post) and of [[Cordoba and Martinez-Zoroa|Diego Córdoba and Luis Martínez-Zoroa]], whose blow-up blueprint the AI fluid results built on. [[Jacobian Conjecture]], [[Navier-Stokes Smoothness Problem]], [[AI as Research Collaborator]], and [[Research Watch]] now link to them.
+- **New shelf:** "Books for general readers" in [[Resources]], including Steven Strogatz's *Infinite Powers*.
+- **New trails:** "Calculus in public" and "The people behind the 2026 shocks" in [[Rabbit Holes]].
 
 ## 2026-11-18
 - **Calculus before calculus.** Two new [[Stories]]: the [[Archimedes Palimpsest]] (Archimedes' slicing method survives in one copy, under a prayer book; a lost page turned up in Blois, France, in March 2026), and the [[Kerala School]] (Madhava's series for π, sine, and cosine around 1400, an 1834 paper that was ignored, and a Europe-transmission idea that has no documentary evidence so far).

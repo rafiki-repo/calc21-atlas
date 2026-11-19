@@ -1,7 +1,7 @@
 ---
 type: open-problem
 status: draft
-updated: 2026-11-15
+updated: 2026-11-19
 last_checked: 2026-11-15
 tags: [multivariable, algebra, ai, counterexample]
 sources: [terrytao.wordpress.com, isa-afp.org, arxiv.org, smithsonianmag.com]
@@ -25,7 +25,7 @@ In calculus terms: if a map looks reversible **locally** at every single point, 
 | **2** | **Open** |
 | 3 and up | **False.** Explicit counterexamples exist |
 
-- **The counterexample (Jul 20, 2026):** mathematician **Levent Alpöge** (Anthropic; Harvard) announced a degree-7 polynomial map of three-dimensional complex space with Jacobian determinant exactly −2. The map is not one-to-one: three different points land on the same output. He credited an Anthropic Claude model with finding it and Akhil Mathew with suggesting the problem.
+- **The counterexample (Jul 20, 2026):** mathematician **[[Levent Alpoge|Levent Alpöge]]** (Anthropic; formerly Harvard) announced, in a casual post on X, a degree-7 polynomial map of three-dimensional complex space with Jacobian determinant exactly −2. The map is not one-to-one: three different points land on the same output. He credited an Anthropic Claude model with finding it and Akhil Mathew with suggesting the problem.
 - **Checked:** the map is easy to verify, and several mathematicians did. [[Terence Tao]] posted a walkthrough the next day. An independent **Isabelle/HOL** formal proof confirms the counterexample and extends it to every dimension ≥ 3.
 - **More counterexamples:** follow-up preprints report further families, including arXiv 2608.00222 by Shuhong Gao (not yet peer reviewed).
 - **Reactions:** some called it the biggest conjecture AI has yet played a major role in. Andrew Blumberg (Columbia) noted that a counterexample shows *that* such maps exist but explains less than a proof would.
@@ -44,6 +44,7 @@ The Jacobian is the multivariable [[Glossary#Derivative|derivative]]. The invers
 ## Next stop
 
 - [[AI as Research Collaborator]]: where this fits in AI's 2026 run
+- [[Levent Alpoge]]: who found it
 - [[Proof Assistants and Lean]]: how a machine checks a counterexample
 - [[Navier-Stokes Smoothness Problem]]: the other big 2026 claim
 - [[Open Problems]]

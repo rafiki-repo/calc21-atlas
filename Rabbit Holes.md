@@ -1,7 +1,7 @@
 ---
 type: hub
 status: draft
-updated: 2026-11-18
+updated: 2026-11-19
 ---
 
 # Rabbit Holes
@@ -89,10 +89,26 @@ Guided trails through the Atlas. Pick one and just keep clicking. Each trail cro
 4. [[Fundamental Theorem of Calculus]]: the link the forerunners did not state in general
 5. [[Nonstandard Analysis]]: the infinitely small, finally made rigorous
 
+## Trail 11: Calculus in public
+
+1. [[Calculus Made Easy]]: a 1910 book that promised to cure "preliminary terrors"
+2. [[Grant Sanderson]]: the same promise, a century later, in animation
+3. [[Calculus or Statistics Debate]]: should calculus be the ticket to college?
+4. [[Widening Access to Calculus]]: who is trying to get it to more students
+5. [[MIT Integration Bee]]: calculus with a live crowd
+
+## Trail 12: The people behind the 2026 shocks
+
+1. [[Cordoba and Martinez-Zoroa]]: a decade of pencil-and-paper blow-up design
+2. [[Navier-Stokes Smoothness Problem]]: where AI teams took their blueprint
+3. [[Levent Alpoge]]: one casual post, one broken conjecture
+4. [[Jacobian Conjecture]]: the map anyone can check
+5. [[Terence Tao]]: who walked everyone through it the next day
+
 ---
 
 ## Trails we want to build
 
-- **Who's who now:** today's voices in analysis and in explaining calculus (started: [[Grant Sanderson]], [[Terence Tao]])
+- **Who's who now:** today's voices in analysis and in explaining calculus (started: [[Grant Sanderson]], [[Terence Tao]]; see also Trail 12)
 - **Strange calculi, part 2:** discrete calculus and q-calculus
 - **Calculus before calculus, part 2:** Ibn al-Haytham, Cavalieri, Fermat

@@ -1,7 +1,7 @@
 ---
 type: hub
 status: draft
-updated: 2026-11-13
+updated: 2026-11-19
 ---
 
 # Education
@@ -13,6 +13,7 @@ How calculus is taught and learned, and what people argue about. Back to [[Home]
 ## Notes
 
 - [[Widening Access to Calculus]]: free courseware, remote tutoring, and revised AP practice, and what is not yet known about them
+- [[Calculus or Statistics Debate]]: is high school calculus the ticket to college? A Texas study, Caltech's 2023 rule change, and what is still unknown
 
 ## Notes elsewhere in the Atlas
 

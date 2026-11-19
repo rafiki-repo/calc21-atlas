@@ -1,7 +1,7 @@
 ---
 type: hub
 status: draft
-updated: 2026-11-17
+updated: 2026-11-19
 ---
 
 # Resources
@@ -14,6 +14,11 @@ The best places to learn, explore, and compute. Back to [[Home]].
 
 - [[Free Calculus Textbooks]]: OpenStax and Active Calculus compared (free, open-licensed)
 - Keisler's *Elementary Calculus: An Infinitesimal Approach*: first-year calculus done with infinitesimals instead of limits (free online). See [[Nonstandard Analysis]].
+
+## Books for general readers
+
+- [[Calculus Made Easy]]: Silvanus Thompson's 1910 antidote to "preliminary terrors" (free, public domain in the US)
+- Steven Strogatz, *Infinite Powers* (2019): calculus told as a story, from ancient Greece to gravitational waves (commercial; [author's page](https://www.stevenstrogatz.com/books/infinite-powers))
 
 ## Courses and lectures
 

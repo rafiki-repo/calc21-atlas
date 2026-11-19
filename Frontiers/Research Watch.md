@@ -17,8 +17,8 @@ Status labels: **published** (refereed journal), **preprint** (arXiv, not yet re
 
 | Result | Who | Status | Atlas note |
 |---|---|---|---|
-| Forced 3D Navier-Stokes blow-up | OpenAI (AI agents), building on Córdoba and Martínez-Zoroa | Claimed (Sep 2026), Lean-checked, human review ongoing. An Oct 2026 preprint disputes that the Lean and written proofs match. Clay lists the problem as "active" | [[Navier-Stokes Smoothness Problem]] |
-| Jacobian conjecture false in dimension 3 and up | Levent Alpöge, with AI | Counterexample (Jul 2026), independently checked and formally verified. 2D still open | [[Jacobian Conjecture]] |
+| Forced 3D Navier-Stokes blow-up | OpenAI (AI agents), building on [[Cordoba and Martinez-Zoroa\|Córdoba and Martínez-Zoroa]] | Claimed (Sep 2026), Lean-checked, human review ongoing. An Oct 2026 preprint disputes that the Lean and written proofs match. Clay lists the problem as "active" | [[Navier-Stokes Smoothness Problem]] |
+| Jacobian conjecture false in dimension 3 and up | [[Levent Alpoge\|Levent Alpöge]], with AI | Counterexample (Jul 2026), independently checked and formally verified. 2D still open | [[Jacobian Conjecture]] |
 | Kakeya conjecture in 3D | Hong Wang, Joshua Zahl | Preprint (Feb 2025), named in a 2026 Fields Medal citation | [[Kakeya Conjecture]] |
 | Fluid equations derived from particles via Boltzmann | Yu Deng, Zaher Hani, Xiao Ma | Preprint (Mar 2025), claimed | [[Hilbert Sixth Problem]] |
 | AI-found unstable blow-ups in related fluid equations | Google DeepMind-led team | Preprint (Sep 2025) | [[AI as Research Collaborator]] |
