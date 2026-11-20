@@ -1,7 +1,7 @@
 ---
 type: glossary
 status: draft
-updated: 2026-11-18
+updated: 2026-11-20
 sources: unverified-seed
 ---
 
@@ -45,6 +45,11 @@ The instantaneous rate of change of a function; the slope of its graph at a poin
 ### Differential equation
 An equation involving a function and its derivatives. Solving it means finding the function. Everyday examples: [[SIR Epidemic Model]], [[Weather Forecasting]]. See [[Navier-Stokes Smoothness Problem]] for a famous case, and a contested 2026 claim.
 
+## E
+
+### Euler's constant
+The number γ ≈ 0.5772, the limit of (1 + 1/2 + ... + 1/n) − ln n. Nobody knows whether it is irrational. See [[Irrationality of Zeta Values]].
+
 ## F
 
 ### Formal proof
@@ -76,6 +81,9 @@ A quantity smaller than any positive number but not zero. Central to early calcu
 
 ### Integral
 The accumulated total of a changing quantity; the area under a curve. The *definite* integral gives a number; the *indefinite* integral gives a family of antiderivatives.
+
+### Irrational number
+A number that cannot be written as a fraction of whole numbers, such as √2 or π. Proving that a specific limit is irrational can be very hard. See [[Irrationality of Zeta Values]].
 
 ## J
 

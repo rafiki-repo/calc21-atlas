@@ -1,7 +1,7 @@
 ---
 type: puzzle
 status: solid
-updated: 2026-11-15
+updated: 2026-11-20
 last_checked: 2026-11-15
 tags: [series, euler, zeta]
 sources: [en.wikipedia.org, 3blue1brown.com]
@@ -22,7 +22,7 @@ What is the sum of the reciprocals of the perfect squares, 1/n² for n = 1, 2, 3
 ## Why people love it
 
 - Nothing about the sum mentions circles, yet π appears.
-- It is a doorway: the sum is ζ(2), the first interesting value of the **Riemann zeta function**. Euler went on to find ζ at every even integer.
+- It is a doorway: the sum is ζ(2), the first interesting value of the **Riemann zeta function**. Euler went on to find ζ at every even integer. The odd values are much harder: see [[Irrationality of Zeta Values]].
 - It has dozens of proofs, using calculus, Fourier series, complex analysis, and even plain geometry.
 
 ## See it
@@ -32,6 +32,7 @@ What is the sum of the reciprocals of the perfect squares, 1/n² for n = 1, 2, 3
 
 ## Next stop
 
+- [[Irrationality of Zeta Values]]: what happens with cubes and fifth powers instead of squares
 - [[MIT Integration Bee]]: where π² keeps turning up in answers
 - [[Glossary#Series]] and [[Glossary#Convergence]]
 - [[Fundamental Theorem of Calculus]]

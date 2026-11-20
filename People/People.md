@@ -1,7 +1,7 @@
 ---
 type: hub
 status: draft
-updated: 2026-11-19
+updated: 2026-11-20
 ---
 
 # People
@@ -31,7 +31,7 @@ Each person note says **what they contributed or are known for**, with sources, 
 
 ### Educators and communicators
 - [[Grant Sanderson]]: creator of 3Blue1Brown and its *Essence of Calculus* series
-- Steven Strogatz: author of *Infinite Powers* (2019), a history of calculus for general readers. See [[Resources#Books for general readers]]
+- [[Steven Strogatz]]: Cornell mathematician, author of *Infinite Powers* (2019), and host of *Quanta*'s *The Joy of Why* podcast
 
 ### Explainers from the past
 - Silvanus P. Thompson (1851-1916): physicist and author of the 1910 classic [[Calculus Made Easy]]

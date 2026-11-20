@@ -18,7 +18,7 @@ The best places to learn, explore, and compute. Back to [[Home]].
 ## Books for general readers
 
 - [[Calculus Made Easy]]: Silvanus Thompson's 1910 antidote to "preliminary terrors" (free, public domain in the US)
-- Steven Strogatz, *Infinite Powers* (2019): calculus told as a story, from ancient Greece to gravitational waves (commercial; [author's page](https://www.stevenstrogatz.com/books/infinite-powers))
+- [[Steven Strogatz]], *Infinite Powers* (2019): calculus told as a story, from ancient Greece to gravitational waves (commercial; [author's page](https://www.stevenstrogatz.com/books/infinite-powers))
 
 ## Courses and lectures
 

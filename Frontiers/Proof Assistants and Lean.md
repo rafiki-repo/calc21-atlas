@@ -1,7 +1,7 @@
 ---
 type: topic
 status: draft
-updated: 2026-11-17
+updated: 2026-11-20
 last_checked: 2026-11-13
 tags: [ai, lean, formalization, proof-assistants]
 sources: [leanprover-community.github.io, teorth.github.io, math-inc.github.io, techcrunch.com]
@@ -26,6 +26,7 @@ A **proof assistant** is software that checks a proof line by line against stric
 
 - **Analysis I, in Lean (2025).** [[Terence Tao]] released a Lean companion to his undergraduate analysis textbook. It covers material from constructing the real numbers through derivatives, Riemann integration, and the [[Fundamental Theorem of Calculus]]. See [[Lean Companion to Analysis I]].
 - **Strong Prime Number Theorem (2025).** Math Inc. reports that its agent, **Gauss**, completed a challenge set by Tao and Alex Kontorovich in about three weeks. The result is roughly **25,000 lines** of Lean, including the complex-analysis groundwork the proof needed. Humans supplied the plan (a "blueprint") and reviewed key lemmas. The speed claims are the company's own.
+- **ζ(5) is irrational (Sep-Oct 2026).** Within weeks of Aabir Fauzan's preprint, Dan Romik directed a complete Lean 4 formalization (about 29,000 lines, written by Claude models). It assumes the prime number theorem, which Mathlib lacks, so Lean checks "prime number theorem implies ζ(5) is irrational." See [[Irrationality of Zeta Values]].
 - **The Stacks Project (Nov 2026).** The startup Axiom Math says its agents turned this roughly 7,600-page algebraic geometry reference into about 16 million lines of Lean (reported by *TechCrunch*). It is not calculus, but it shows how quickly the scale is growing. The claims are the company's own.
 
 **Want to try it?** Tao's **Lean Grimoire** (Nov 2026) is a browser logic game that can show the Lean proof behind each move. It covers logic, not calculus, but it's a gentle way in. [Play it](https://teorth.github.io/tao-web/apps/grimoire.html).

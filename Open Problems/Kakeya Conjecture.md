@@ -1,7 +1,7 @@
 ---
 type: open-problem
 status: draft
-updated: 2026-11-14
+updated: 2026-11-20
 last_checked: 2026-11-14
 tags: [harmonic-analysis, geometric-measure-theory, fourier-analysis]
 sources: [arxiv.org/abs/2502.17655, plus.maths.org, math.ubc.ca, simonsfoundation.org]
@@ -40,5 +40,6 @@ Kakeya sits at the base of a **tower of conjectures in [[Glossary#Fourier analys
 
 - [[Hong Wang]]: who proved the 3D case
 - [[Jacobian Conjecture]]: another simple-to-state problem, this one disproved in 3D in 2026
+- [[Moving Sofa Problem]]: the furniture version of "how much room do you need to turn?"
 - [[Research Watch]]
 - [[Open Problems]]

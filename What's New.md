@@ -1,12 +1,17 @@
 ---
 type: changelog
 status: draft
-updated: 2026-11-19
+updated: 2026-11-20
 ---
 
 # What's New
 
 Latest additions and changes to the Atlas, newest first. Back to [[Home]].
+
+## 2026-11-20
+- **Two open problems on the move.** [[Irrationality of Zeta Values]]: a Sep 2026 preprint by Aabir Fauzan claims that ζ(5) = 1 + 1/2⁵ + 1/3⁵ + ... is irrational. That would be the first named odd zeta value since Apéry's ζ(3) in 1978. Lean and Isabelle versions already check it, and peer review has not happened yet. Euler's constant γ is still a mystery. The [[Moving Sofa Problem]]: Jineon Baek's 119-page proof that Gerver's 1992 sofa is the largest that fits around a corner, uses Green's theorem and no computer. It is reported to be under review at *Annals*.
+- **New person:** [[Steven Strogatz]], author of *Infinite Powers* and host of *The Joy of Why*.
+- **Updated:** [[Research Watch]] (two new rows), [[Proof Assistants and Lean]] (the ζ(5) formalization), [[Basel Problem]] (what happens at odd powers). The [[Glossary]] adds *Euler's constant* and *irrational number*. Trails 2 and 3 in [[Rabbit Holes]] get new stops.
 
 ## 2026-11-19
 - **Calculus in public.** Two new notes on the culture around calculus. [[Calculus Made Easy]] is Silvanus Thompson's 1910 book for the terrified, still in print and free online. The [[Calculus or Statistics Debate]] covers whether high school calculus is the ticket to college: a Texas study found similar long-term earnings, Caltech changed its rules in 2023, and the evidence is still thin.

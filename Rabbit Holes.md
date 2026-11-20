@@ -1,7 +1,7 @@
 ---
 type: hub
 status: draft
-updated: 2026-11-19
+updated: 2026-11-20
 ---
 
 # Rabbit Holes
@@ -21,14 +21,16 @@ Guided trails through the Atlas. Pick one and just keep clicking. Each trail cro
 ## Trail 2: Infinite sums that should not work
 
 1. [[Basel Problem]] — adding up 1/n² and landing on π²/6
-2. [[Glossary]] — "series" and "convergence" in plain words
-3. [[Puzzles]] — more mathematical mischief of this kind
+2. [[Irrationality of Zeta Values]] — swap squares for fifth powers, and a 2026 preprint finally says "not a fraction"
+3. [[Glossary]] — "series" and "convergence" in plain words
+4. [[Puzzles]] — more mathematical mischief of this kind
 
 ## Trail 3: The edge of what's known
 
 1. [[Navier-Stokes Smoothness Problem]] — a prize problem with a 2026 claim still under review
 2. [[Jacobian Conjecture]] — a deceptively simple claim that fell in 3D, and survives in 2D
-3. [[Open Problems]] — the full list
+3. [[Moving Sofa Problem]] — a 60-year furniture puzzle, with a proof still in review
+4. [[Open Problems]] — the full list
 
 ## Trail 4: Calculus vs the machines
 
@@ -93,9 +95,10 @@ Guided trails through the Atlas. Pick one and just keep clicking. Each trail cro
 
 1. [[Calculus Made Easy]]: a 1910 book that promised to cure "preliminary terrors"
 2. [[Grant Sanderson]]: the same promise, a century later, in animation
-3. [[Calculus or Statistics Debate]]: should calculus be the ticket to college?
-4. [[Widening Access to Calculus]]: who is trying to get it to more students
-5. [[MIT Integration Bee]]: calculus with a live crowd
+3. [[Steven Strogatz]]: the same promise again, in bestsellers and a podcast
+4. [[Calculus or Statistics Debate]]: should calculus be the ticket to college?
+5. [[Widening Access to Calculus]]: who is trying to get it to more students
+6. [[MIT Integration Bee]]: calculus with a live crowd
 
 ## Trail 12: The people behind the 2026 shocks
 
