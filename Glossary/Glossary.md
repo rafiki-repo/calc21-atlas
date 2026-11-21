@@ -1,7 +1,7 @@
 ---
 type: glossary
 status: draft
-updated: 2026-11-20
+updated: 2026-11-21
 sources: unverified-seed
 ---
 
@@ -124,6 +124,9 @@ An approximation of an integral made by chopping an interval into thin strips an
 ### Series
 A sum of infinitely many terms. See [[Basel Problem]].
 
+### Singularity
+A point or moment where a solution stops making sense, usually because some quantity becomes infinite. In fluids this is called **blow-up**. A blow-up is *unstable* if the tiniest change to the starting data makes it disappear. See [[Navier-Stokes Smoothness Problem]] and [[Tristan Buckmaster]].
+
 ### Smooth
 Informally: having derivatives of all orders, with no jumps or kinks. See [[Navier-Stokes Smoothness Problem]].
 
@@ -131,3 +134,8 @@ Informally: having derivatives of all orders, with no jumps or kinks. See [[Navi
 
 ### Vector field
 A rule that attaches an arrow (a vector) to every point in space, like wind speed and direction on a weather map. See [[CalcPlot3D]].
+
+## W
+
+### Weak solution
+A looser kind of solution to a differential equation. It only has to satisfy the equation "on average" (after integrating against test functions), so it may have kinks or jumps where derivatives do not exist. Weak solutions of fluid equations can be strangely non-unique; see [[Tristan Buckmaster]].

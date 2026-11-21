@@ -1,12 +1,18 @@
 ---
 type: changelog
 status: draft
-updated: 2026-11-20
+updated: 2026-11-21
 ---
 
 # What's New
 
 Latest additions and changes to the Atlas, newest first. Back to [[Home]].
+
+## 2026-11-21
+- **Two blow-up hunters.** New profiles of [[Tristan Buckmaster]] (NYU) and [[Javier Gomez-Serrano|Javier Gómez-Serrano]] (Brown). Buckmaster first showed that rough fluid solutions can be wildly non-unique (2019 Clay Research Award). Gómez-Serrano built a career on computer-assisted proofs. Together, since 2022, they have used neural networks to search for fluid singularities. None of those candidates is proved yet. Buckmaster's forced-Euler result is still a claim under review.
+- **Catalan's constant:** a Sep 2026 preprint claims it is irrational. A follow-up note reports a gap in the proof. [[Irrationality of Zeta Values]] now covers the dispute; the question is still treated as open.
+- **Fixed:** [[Cordoba and Martinez-Zoroa]] now gives Luis Martínez-Zoroa's confirmed post (CUNEF Universidad, after a Basel postdoc).
+- **Also:** the [[Glossary]] adds *singularity* and *weak solution*. [[People]] adds a line on Thomas Hou. Trail 12 in [[Rabbit Holes]] gets two new stops.
 
 ## 2026-11-20
 - **Two open problems on the move.** [[Irrationality of Zeta Values]]: a Sep 2026 preprint by Aabir Fauzan claims that ζ(5) = 1 + 1/2⁵ + 1/3⁵ + ... is irrational. That would be the first named odd zeta value since Apéry's ζ(3) in 1978. Lean and Isabelle versions already check it, and peer review has not happened yet. Euler's constant γ is still a mystery. The [[Moving Sofa Problem]]: Jineon Baek's 119-page proof that Gerver's 1992 sofa is the largest that fits around a corner, uses Green's theorem and no computer. It is reported to be under review at *Annals*.

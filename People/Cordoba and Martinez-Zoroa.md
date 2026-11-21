@@ -1,10 +1,10 @@
 ---
 type: person
 status: draft
-updated: 2026-11-19
-last_checked: 2026-11-19
+updated: 2026-11-21
+last_checked: 2026-11-21
 tags: [researcher, pde, fluids, blow-up]
-sources: [es.euronews.com, arxiv.org, quantamagazine.org]
+sources: [es.euronews.com, arxiv.org, quantamagazine.org, cunef.edu]
 ---
 
 # Córdoba and Martínez-Zoroa
@@ -14,17 +14,20 @@ sources: [es.euronews.com, arxiv.org, quantamagazine.org]
 ## Who they are
 
 - **Diego Córdoba:** a fluid-dynamics analyst at Spain's national research council (**CSIC**), working at the **ICMAT** institute in Madrid.
-- **Luis Martínez-Zoroa:** Córdoba's former PhD student. The program grew out of his thesis. Euronews (Sep 2026) places him at **CUNEF Universidad** in Madrid; other listings differ, so check before citing.
+- **Luis Martínez-Zoroa:** Córdoba's former PhD student. The program grew out of his thesis. He did a postdoc in Gianluca Crippa's group at the University of Basel and is now a tenure-track assistant professor at **CUNEF Universidad** in Madrid (CUNEF faculty page, checked 2026-11-21).
 
 ## Known for
 
 - **A blow-up blueprint:** the fluid is built as an infinite stack of ever smaller, more concentrated swirling layers. No single layer is singular, but each one is designed to amplify the next. All the effects pile up at one final instant. Euronews calls it a "cascade of vorticity layers".
 - **3D Euler singularities (2023):** a preprint with Fan Zheng ([arXiv 2308.12197](https://arxiv.org/abs/2308.12197)) builds finite-time breakdown for the 3D Euler equations, in a class of solutions that are smooth everywhere except one point. As of Sep 2026, Euronews reports it had not yet appeared in a journal.
-- **The 2026 AI results:** Quanta, Science News, and Euronews report that both OpenAI's forced Navier-Stokes claim and [[Levent Alpoge|Alpöge]] and Buckmaster's forced Euler claim used their strategy. Charles Fefferman, who wrote the Clay problem statement, called them "the heroes" (as reported by Quanta). The two urged that a result this big be "read carefully, understood and validated" before it is accepted.
+- **The 2026 AI results:** Quanta, Science News, and Euronews report that both OpenAI's forced Navier-Stokes claim and [[Levent Alpoge|Alpöge]] and [[Tristan Buckmaster|Buckmaster]]'s forced Euler claim used their strategy. Charles Fefferman, who wrote the Clay problem statement, called them "the heroes" (as reported by Quanta). The two urged that a result this big be "read carefully, understood and validated" before it is accepted.
 
-## Sources (checked 2026-11-19)
+**Another Córdoba student:** [[Javier Gomez-Serrano|Javier Gómez-Serrano]] (PhD 2013) now co-leads the neural-network search for fluid blow-ups.
+
+## Sources (checked 2026-11-19; affiliation 2026-11-21)
 
 - [La IA resuelve un problema del milenio basándose en un método español](https://es.euronews.com/2026/09/11/ia-resuelve-problema-milenio-navier-stokes-basandose-metodo-espanol), Cristian Caraballo, Euronews (Spanish), Sep 11, 2026
+- [Luis Martínez-Zoroa](https://www.cunef.edu/en/faculty-and-research/martinez-zoroa-luis/), CUNEF Universidad faculty page
 - [Finite time singularities to the 3D incompressible Euler equations…](https://arxiv.org/abs/2308.12197), Córdoba, Martínez-Zoroa, Zheng, arXiv preprint, 2023
 - [AI Has Solved One of Math's $1 Million Millennium Prize Problems](https://www.quantamagazine.org/ai-has-solved-one-of-maths-1-million-millennium-prize-problems-20260908/), Quanta, Sep 8, 2026 (headline overstates; see the NS note)
 

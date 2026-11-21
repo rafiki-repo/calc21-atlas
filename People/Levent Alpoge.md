@@ -1,7 +1,7 @@
 ---
 type: person
 status: draft
-updated: 2026-11-19
+updated: 2026-11-21
 last_checked: 2026-11-19
 tags: [researcher, number-theory, ai, counterexample]
 sources: [personal-egh.pages.dev, lens.monash.edu, es.euronews.com]
@@ -14,7 +14,7 @@ sources: [personal-egh.pages.dev, lens.monash.edu, es.euronews.com]
 ## Known for
 
 - **The Jacobian counterexample (Jul 20, 2026):** an explicit degree-7 map in three dimensions that disproves the [[Jacobian Conjecture]] in every dimension from 3 up. He credited Anthropic's Claude model with work that led to it, and Akhil Mathew with suggesting the problem. The map is short enough that other mathematicians checked it quickly.
-- **Forced Euler blow-up (Sep 2026):** with **Tristan Buckmaster**, an AI-assisted, Lean-checked claim that the forced Euler fluid equations can blow up. The result is **claimed, not yet peer reviewed**. It built on the strategy of [[Cordoba and Martinez-Zoroa|Córdoba and Martínez-Zoroa]]. See [[Navier-Stokes Smoothness Problem]].
+- **Forced Euler blow-up (Sep 2026):** with **[[Tristan Buckmaster]]**, an AI-assisted, Lean-checked claim that the forced Euler fluid equations can blow up. The result is **claimed, not yet peer reviewed**. It built on the strategy of [[Cordoba and Martinez-Zoroa|Córdoba and Martínez-Zoroa]]. See [[Navier-Stokes Smoothness Problem]].
 - **Before AI:** a number theorist. He wrote papers on counting points on curves and on which integers are sums of two cubes, several of them with Manjul Bhargava and Ari Shnidman.
 
 ## Career in brief

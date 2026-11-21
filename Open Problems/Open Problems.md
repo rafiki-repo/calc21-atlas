@@ -19,7 +19,7 @@ Every entry states its **status** and **last_checked** date. Claimed proofs are 
 | [[Kakeya Conjecture]] | Harmonic analysis | How thin can a needle-turning set be? (3D case: proof posted 2025) |
 | [[Hilbert Sixth Problem]] | PDEs / mathematical physics | Can fluid equations be derived from colliding particles? (claimed progress, 2025) |
 | [[Moving Sofa Problem]] | Optimization / geometry | What is the biggest sofa that fits around a corner? (proof posted 2024; in peer review) |
-| [[Irrationality of Zeta Values]] | Series / number theory | Are 1 + 1/2⁵ + 1/3⁵ + ... and Euler's constant fractions? (ζ(5) claimed irrational, 2026; γ open) |
+| [[Irrationality of Zeta Values]] | Series / number theory | Are 1 + 1/2⁵ + 1/3⁵ + ... and Euler's constant fractions? (ζ(5) claimed irrational, 2026; Catalan's constant claim disputed; γ open) |
 
 For recent results and prizes in analysis, see [[Research Watch]].
 

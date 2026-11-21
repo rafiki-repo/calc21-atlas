@@ -1,7 +1,7 @@
 ---
 type: hub
 status: draft
-updated: 2026-11-20
+updated: 2026-11-21
 ---
 
 # Rabbit Holes
@@ -107,11 +107,13 @@ Guided trails through the Atlas. Pick one and just keep clicking. Each trail cro
 3. [[Levent Alpoge]]: one casual post, one broken conjecture
 4. [[Jacobian Conjecture]]: the map anyone can check
 5. [[Terence Tao]]: who walked everyone through it the next day
+6. [[Tristan Buckmaster]]: from "too many solutions" to the forced Euler claim
+7. [[Javier Gomez-Serrano]]: proofs with a computer in the loop
 
 ---
 
 ## Trails we want to build
 
-- **Who's who now:** today's voices in analysis and in explaining calculus (started: [[Grant Sanderson]], [[Terence Tao]]; see also Trail 12)
+- **Who's who now:** today's voices in analysis and in explaining calculus (started: [[Grant Sanderson]], [[Terence Tao]], [[Javier Gomez-Serrano]]; see also Trail 12)
 - **Strange calculi, part 2:** discrete calculus and q-calculus
 - **Calculus before calculus, part 2:** Ibn al-Haytham, Cavalieri, Fermat

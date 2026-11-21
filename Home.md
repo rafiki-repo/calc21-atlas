@@ -1,7 +1,7 @@
 ---
 type: hub
 status: draft
-updated: 2026-11-20
+updated: 2026-11-21
 ---
 
 # Calc21 Atlas
@@ -53,6 +53,7 @@ Calculus is **two ideas and one surprise**. The first idea: you can measure *how
 - **Does high school calculus actually matter for college, or just for admissions?** → [[Calculus or Statistics Debate]]
 - **Which calculus book is still in print after more than a century?** → [[Calculus Made Easy]]
 - **What is the biggest sofa you can carry around a corner?** → [[Moving Sofa Problem]]
+- **Can a neural network find where a fluid equation breaks? (Yes, almost: proving it is the hard part.)** → [[Javier Gomez-Serrano]]
 - **Is 1 + 1/32 + 1/243 + ... a fraction? (A 2026 preprint says no, and computers agree.)** → [[Irrationality of Zeta Values]]
 
 ---
