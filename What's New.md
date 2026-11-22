@@ -1,12 +1,18 @@
 ---
 type: changelog
 status: draft
-updated: 2026-11-21
+updated: 2026-11-22
 ---
 
 # What's New
 
 Latest additions and changes to the Atlas, newest first. Back to [[Home]].
+
+## 2026-11-22
+- **Two teachers who give it away.** New profiles of [[Gilbert Strang]], MIT's OpenCourseWare pioneer, and [[Trefor Bazett]]. Strang's full *Calculus* textbook is a free PDF and comes with 17 *Highlights of Calculus* videos. He retired in 2023 after 61 years on the faculty. Bazett, at the University of Victoria, builds open "video books" for Calculus 1 and vector calculus, and won the 2024 PIMS Education Prize.
+- **Resources:** Strang's textbook and videos, and Bazett's video books, join the [[Resources]] shelves. [[Free Calculus Textbooks]] gets an "Also free" line.
+- **Puzzles:** the [[MIT Integration Bee]] now lists Grand Integrators back to 2018. Karthik Vedula has won twice in a row (2025-26), as Ashwin Sah did in 2018-19.
+- **New stops:** Trail 5 ("Calculus on a zero budget") in [[Rabbit Holes]].
 
 ## 2026-11-21
 - **Two blow-up hunters.** New profiles of [[Tristan Buckmaster]] (NYU) and [[Javier Gomez-Serrano|Javier Gómez-Serrano]] (Brown). Buckmaster first showed that rough fluid solutions can be wildly non-unique (2019 Clay Research Award). Gómez-Serrano built a career on computer-assisted proofs. Together, since 2022, they have used neural networks to search for fluid singularities. None of those candidates is proved yet. Buckmaster's forced-Euler result is still a claim under review.

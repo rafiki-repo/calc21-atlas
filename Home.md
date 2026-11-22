@@ -1,7 +1,7 @@
 ---
 type: hub
 status: draft
-updated: 2026-11-21
+updated: 2026-11-22
 ---
 
 # Calc21 Atlas
@@ -39,6 +39,7 @@ Calculus is **two ideas and one surprise**. The first idea: you can measure *how
 - **A million-dollar prize for understanding how water flows, and an AI-driven claim in 2026. Is it settled?** → [[Navier-Stokes Smoothness Problem]]
 - **Can a computer check a calculus proof, and can AI write one?** → [[Calculus and AI]]
 - **Can you learn calculus without paying for a textbook?** → [[Free Calculus Textbooks]]
+- **Who posted his MIT lectures online in 2001, then got a standing ovation at 88?** → [[Gilbert Strang]]
 - **An 87-year-old conjecture, toppled by a counterexample an AI helped find (but only in 3D)** → [[Jacobian Conjecture]]
 - **Can integration be a spectator sport?** → [[MIT Integration Bee]]
 - **How little space do you need to turn a needle around? (A 2026 Fields Medal says: tricky.)** → [[Kakeya Conjecture]]

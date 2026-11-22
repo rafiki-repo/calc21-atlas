@@ -1,7 +1,7 @@
 ---
 type: resource
 status: draft
-updated: 2026-11-13
+updated: 2026-11-22
 last_checked: 2026-11-13
 cost: free, no login
 tags: [course, video, mit, single-variable]
@@ -31,4 +31,5 @@ sources: [ocw.mit.edu]
 
 - [[Free Calculus Textbooks]]: a free book to read alongside
 - [[Fundamental Theorem of Calculus]]: the payoff of the semester
+- [[Gilbert Strang]]: another MIT calculus on OCW, in textbook and short-video form
 - [[Resources]]

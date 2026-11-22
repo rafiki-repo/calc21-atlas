@@ -1,8 +1,8 @@
 ---
 type: puzzle
 status: draft
-updated: 2026-11-15
-last_checked: 2026-11-15
+updated: 2026-11-22
+last_checked: 2026-11-22
 tags: [integration, competition, mit]
 sources: [math.mit.edu]
 ---
@@ -18,6 +18,22 @@ A yearly competition held each January during MIT's Independent Activities Perio
 - **Qualifier:** 20 integrals in 20 minutes. The top 16 advance.
 - **The Bee:** a "regular season" in which four students race on each integral, then an 8-player single-elimination playoff. Integrals get harder each round, and in the finals each one has a 5-minute limit.
 - **2026 (Jan 21):** Grand Integrator **Karthik Vedula**. The other finalists were Tristan Chaang, Gurkirat Singh, and Jacopo Rizzo.
+
+## Recent Grand Integrators
+
+| Year | Winner |
+|---|---|
+| 2026 | Karthik Vedula (again) |
+| 2025 | Karthik Vedula |
+| 2024 | Brian Liu |
+| 2023 | Luke Robitaille |
+| 2022 | Shengtong Zhang |
+| 2021 | No bee (pandemic) |
+| 2020 | Saaketh Vedantam |
+| 2019 | Ashwin Sah |
+| 2018 | Ashwin Sah |
+
+Two back-to-back champions in under a decade: Ashwin Sah (2018-19) and Karthik Vedula (2025-26). Source: the bee's [past results page](https://math.mit.edu/~yyao1/pastresults.html), checked 2026-11-22.
 
 ## A taste (2026 finals, Problem 1)
 

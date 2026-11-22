@@ -1,7 +1,7 @@
 ---
 type: hub
 status: draft
-updated: 2026-11-21
+updated: 2026-11-22
 ---
 
 # People
@@ -35,6 +35,8 @@ Each person note says **what they contributed or are known for**, with sources, 
 ### Educators and communicators
 - [[Grant Sanderson]]: creator of 3Blue1Brown and its *Essence of Calculus* series
 - [[Steven Strogatz]]: Cornell mathematician, author of *Infinite Powers* (2019), and host of *Quanta*'s *The Joy of Why* podcast
+- [[Gilbert Strang]]: MIT's open-lecture pioneer (retired 2023); his full *Calculus* textbook is free on OpenCourseWare
+- [[Trefor Bazett]]: University of Victoria teaching professor; free calculus "video books" and the Dr. Trefor YouTube channel (2024 PIMS Education Prize)
 
 ### Explainers from the past
 - Silvanus P. Thompson (1851-1916): physicist and author of the 1910 classic [[Calculus Made Easy]]
