@@ -1,7 +1,7 @@
 ---
 type: hub
 status: draft
-updated: 2026-11-22
+updated: 2026-11-23
 ---
 
 # Rabbit Holes
@@ -111,6 +111,14 @@ Guided trails through the Atlas. Pick one and just keep clicking. Each trail cro
 5. [[Terence Tao]]: who walked everyone through it the next day
 6. [[Tristan Buckmaster]]: from "too many solutions" to the forced Euler claim
 7. [[Javier Gomez-Serrano]]: proofs with a computer in the loop
+
+## Trail 13: Calculus class, examined
+
+1. [[AP Calculus]]: the exam that most US students meet first, and 25 years of pass rates
+2. [[Active Learning in Calculus]]: lectures vs group work, in a randomized trial
+3. [[Calculus or Statistics Debate]]: should calculus be the gateway at all?
+4. [[Widening Access to Calculus]]: why fewer California schools offer it, and who is trying to fill the gap
+5. [[Free Calculus Textbooks]]: what a school with no budget can use
 
 ---
 

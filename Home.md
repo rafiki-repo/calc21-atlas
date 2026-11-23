@@ -1,7 +1,7 @@
 ---
 type: hub
 status: draft
-updated: 2026-11-22
+updated: 2026-11-23
 ---
 
 # Calc21 Atlas
@@ -52,6 +52,8 @@ Calculus is **two ideas and one surprise**. The first idea: you can measure *how
 - **Who had π as an infinite sum centuries before Leibniz?** → [[Kerala School]]
 - **How did Archimedes' calculus-like method survive? Under a prayer book.** → [[Archimedes Palimpsest]]
 - **Does high school calculus actually matter for college, or just for admissions?** → [[Calculus or Statistics Debate]]
+- **Does lecturing calculus work? A randomized trial with 811 students says group work did better.** → [[Active Learning in Calculus]]
+- **How many students pass AP Calculus, and why did AB scores jump in 2024?** → [[AP Calculus]]
 - **Which calculus book is still in print after more than a century?** → [[Calculus Made Easy]]
 - **What is the biggest sofa you can carry around a corner?** → [[Moving Sofa Problem]]
 - **Can a neural network find where a fluid equation breaks? (Yes, almost: proving it is the hard part.)** → [[Javier Gomez-Serrano]]

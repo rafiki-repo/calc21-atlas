@@ -1,7 +1,7 @@
 ---
 type: glossary
 status: draft
-updated: 2026-11-21
+updated: 2026-11-23
 sources: unverified-seed
 ---
 
@@ -49,6 +49,9 @@ An equation involving a function and its derivatives. Solving it means finding t
 
 ### Euler's constant
 The number γ ≈ 0.5772, the limit of (1 + 1/2 + ... + 1/n) − ln n. Nobody knows whether it is irrational. See [[Irrationality of Zeta Values]].
+
+### Extreme value theorem
+If a function is [[Glossary#Continuity|continuous]] on a closed interval [a, b], it reaches a largest and a smallest value somewhere on that interval. Drop "closed" or "continuous" and it can fail. See [[AP Calculus]], whose syllabus reworded it for Fall 2026.
 
 ## F
 

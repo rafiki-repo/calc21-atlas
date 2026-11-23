@@ -1,7 +1,7 @@
 ---
 type: person
 status: draft
-updated: 2026-11-15
+updated: 2026-11-23
 last_checked: 2026-11-13
 tags: [researcher, analysis, ai, lean, author]
 sources: [teorth.github.io, arxiv.org, terrytao.wordpress.com]
@@ -14,7 +14,7 @@ sources: [teorth.github.io, arxiv.org, terrytao.wordpress.com]
 ## Known for
 
 - **Analysis research** across harmonic analysis, PDEs, and number theory. He received the Fields Medal in 2006.
-- ***Analysis I* and *II***, widely used undergraduate textbooks that build calculus rigorously from the ground up.
+- ***Analysis I*** and ***II***, widely used undergraduate textbooks that build calculus rigorously from the ground up.
 - **Math and AI in practice:** he released a Lean companion to *Analysis I* (2025), co-authored the AlphaEvolve exploration paper (2025), and co-set the Strong Prime Number Theorem formalization challenge with Alex Kontorovich.
 - **New in Nov 2026:** a popular-math book, *Six Math Essentials* (published Nov 10, 2026), and **Lean Grimoire**, a browser logic game built with a coding agent that can show the Lean proof behind each move. He is currently seeking playtesters.
 - **Explainer of others' results:** the day after the 2026 Jacobian counterexample, his blog posted a walkthrough of why it works. See [[Jacobian Conjecture]].

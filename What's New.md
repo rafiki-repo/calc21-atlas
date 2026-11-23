@@ -1,12 +1,17 @@
 ---
 type: changelog
 status: draft
-updated: 2026-11-22
+updated: 2026-11-23
 ---
 
 # What's New
 
 Latest additions and changes to the Atlas, newest first. Back to [[Home]].
+
+## 2026-11-23
+- **Calculus class, examined.** Two new [[Education]] notes. [[AP Calculus]] covers the AB and BC exams: shorter multiple-choice sections from May 2027, pass rates from 2002 to 2026 (BC takers nearly quadrupled), an unexplained 2024 jump in AB scores, and the new AP Precalculus. [[Active Learning in Calculus]] covers a 2023 *Science* trial at FIU: 811 students randomly assigned to group work or lectures, with better results for group work. Its fine print: instructors were not randomized, and it was run at one university.
+- **Updated:** [[Widening Access to Calculus]] adds California data (calculus takers fell from 17.8% to 14.2% between 2015 and 2024, and fewer schools offer it). [[Calculus or Statistics Debate]] adds UC's Dec 2025 statement that its math rules "have not changed for over 16 years."
+- **Also:** the [[Glossary]] adds the *extreme value theorem*. The [[Terence Tao]] note gets a formatting fix (thanks to the calc21.com team). New Trail 13 in [[Rabbit Holes]].
 
 ## 2026-11-22
 - **Two teachers who give it away.** New profiles of [[Gilbert Strang]], MIT's OpenCourseWare pioneer, and [[Trefor Bazett]]. Strang's full *Calculus* textbook is a free PDF and comes with 17 *Highlights of Calculus* videos. He retired in 2023 after 61 years on the faculty. Bazett, at the University of Victoria, builds open "video books" for Calculus 1 and vector calculus, and won the 2024 PIMS Education Prize.

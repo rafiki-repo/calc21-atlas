@@ -1,8 +1,8 @@
 ---
 type: topic
 status: draft
-updated: 2026-11-19
-last_checked: 2026-11-19
+updated: 2026-11-23
+last_checked: 2026-11-23
 tags: [ap-calculus, statistics, data-science, admissions, debate]
 sources: [edweek.org, the74million.org, senate.universityofcalifornia.edu]
 ---
@@ -32,6 +32,7 @@ sources: [edweek.org, the74million.org, senate.universityofcalifornia.edu]
 - **Caltech (Aug 2023)** dropped calculus, physics, and chemistry as *required high school courses*. Applicants still have to show mastery, and one accepted route is free online courses from Khan Academy. Its admissions director put the new question as: "Can you showcase to us that you have proficiency and mastery?"
 - **Others (Nov 2023):** a survey by The 74 of 20 competitive schools found only **Cornell** still required calculus. Six recommended or encouraged it (MIT expects two semesters but lets students place out).
 - **University of California (Jul 2023):** a faculty committee debated whether high school **data science** courses could stand in for Algebra II. Its minutes record concerns that the courses were not rigorous enough, and the committee reversed course. Strictly, that fight was about the road *to* calculus, not calculus itself.
+- **UC, the sequel (2024-25):** a faculty workgroup reported in Feb and Jun 2024 that no rule changes were needed, and that a course can stand in for Algebra II only if it requires mastery of Algebra II content. In **Dec 2025**, after a UC San Diego report on weak math preparation among new students, the committee (BOARS) restated that UC's math requirements "have not changed for over 16 years." Its letter says that **about 80%** of admitted students take precalculus or calculus as a fourth year of math, some alongside statistics.
 
 ## What is not known
 
@@ -43,10 +44,12 @@ sources: [edweek.org, the74million.org, senate.universityofcalifornia.edu]
 - [Is calculus or stats more advantageous for student success? It's complicated](https://www.edweek.org/teaching-learning/is-calculus-or-stats-more-advantageous-for-student-success-its-complicated/2025/04), Sarah Schwartz, Education Week, Apr 23, 2025
 - [Is calculus overrated?](https://www.the74million.org/article/is-calculus-overrated-some-reasons-to-rethink-how-schools-offer-advanced-math/), Adam Tyner, The 74 (opinion), Oct 16, 2025
 - [Even as Caltech drops calculus requirement, other competitive colleges continue to expect hard-to-find course](https://www.the74million.org/article/caltech-drops-calculus-requirement-but-others-still-recommend-or-encourage-it/), Jo Napolitano, The 74, Nov 6, 2023
+- [BOARS letter reaffirming UC's math (Area C) requirements](https://senate.universityofcalifornia.edu/_files/committees/boars/council-chair-to-senate-divisions-boars-area-c.pdf), UC Academic Senate, Dec 5 and 15, 2025 (PDF, checked 2026-11-23)
 - [BOARS minutes, Jul 7, 2023](https://senate.universityofcalifornia.edu/_files/committees/boars/boars-july-7-2023-minutes.pdf), UC Academic Senate (PDF)
 
 ## Next stop
 
+- [[AP Calculus]]: the exams at the center of the argument, and their score record
 - [[Widening Access to Calculus]]: the projects trying to bring calculus to schools that lack it
 - [[Free Calculus Textbooks]]: what a school with no budget can use
 - [[Fundamental Theorem of Calculus]]: what students taking calculus are headed toward
