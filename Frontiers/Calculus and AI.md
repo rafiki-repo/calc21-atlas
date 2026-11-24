@@ -1,8 +1,8 @@
 ---
 type: topic
 status: draft
-updated: 2026-11-15
-last_checked: 2026-11-15
+updated: 2026-11-24
+last_checked: 2026-11-24
 tags: [ai, proof-assistants, lean, education]
 sources: [theregister.com, arxiv.org, teorth.github.io, math-inc.github.io, deepmind.google, techcrunch.com]
 ---
@@ -27,7 +27,8 @@ The evidence is still thin and mostly from preprints or vendors, but some consis
 - **Answers wobble.** The same benchmark found that models often gave a *different* answer when asked the same question again. This happened mostly when the answer was wrong.
 - **Small slips are more common than misunderstandings.** A 2025 arXiv preprint by Zhang and Graf (arithmetic, algebra, and number theory; GPT-4o, o1, DeepSeek models) found **procedural slips** were the most common error. Conceptual errors were rarer. Pairing two AI agents to check each other helped substantially.
 - **Competitions are a different story.** On the 2025 [[Putnam Competition]], official graders scored the best AI entrant at 103/120, above the human Fellow cutoff (according to the evaluators, MathArena). Contest proofs and everyday word problems test different things.
-- **The calculus-specific gap.** Studies that test AI on real Calc I–III exams, or as a *tutor* rather than a solver, are only starting to appear. Treat any single headline number with caution.
+- **Hard integrals are still hard.** **IntegralBench** (arXiv preprint, Jul 2025) set nine models 317 graduate-level definite integrals from a textbook and integral competitions. The best, Qwen3-235B, got about **50%** numerically right (56% in exact form), with three tries per problem. Models have moved on since, so this is a baseline, not a verdict.
+- **As a tutor, not a solver.** Randomized trials of AI tutors exist for school math and physics, but not yet for college calculus. Results are mixed: big practice gains, small or no test gains. See [[AI Tutors in Math Class]].
 
 **A useful distinction:** a fluent explanation is not the same as a checked one. That gap is why proof assistants (next row) attract so much interest.
 
@@ -36,10 +37,11 @@ The evidence is still thin and mostly from preprints or vendors, but some consis
 - [[Proof Assistants and Lean]]: how a computer can *check* a calculus proof
 - [[AI as Research Collaborator]]: AlphaEvolve, a fallen conjecture, and the contested Navier-Stokes claim
 - [[Terence Tao]]: a central figure in both analysis and AI-assisted math
-- [[Widening Access to Calculus]]: AI tutors arriving in free college courseware
+- [[AI Tutors in Math Class]]: what randomized trials say about chatbot tutors
 - [[Backpropagation and the Chain Rule]]: the calculus inside the machines
 
 ## Sources (checked 2026-11-13)
 
 - [AI models suck slightly less at math than they did last year](https://www.theregister.com/2026/02/26/ai_models_get_better_at/), *The Register*, Feb 2026 (ORCA benchmark round 2; vendor-affiliated, pre-publication)
+- [IntegralBench: Benchmarking LLMs with Definite Integral Problems](https://arxiv.org/abs/2507.21130), Tang et al., arXiv preprint, Jul 2025 (checked 2026-11-24)
 - [Mathematical Computation and Reasoning Errors by Large Language Models](https://arxiv.org/abs/2508.09932), Zhang & Graf, arXiv preprint, Aug 2025

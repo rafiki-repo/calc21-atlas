@@ -1,7 +1,7 @@
 ---
 type: glossary
 status: draft
-updated: 2026-11-23
+updated: 2026-11-24
 sources: unverified-seed
 ---
 
@@ -15,6 +15,9 @@ Plain-language definitions. Link to a term from any note with `[[Glossary#Term]]
 
 ### Antiderivative
 A function whose derivative is the one you started with. Not unique: adding a constant gives another. See [[Fundamental Theorem of Calculus]].
+
+### Automatic differentiation
+A way for a computer to get exact derivatives of a program by applying the chain rule to each step, rather than by approximating slopes. It is how neural networks are trained. See [[Backpropagation and the Chain Rule]] and [[Physics-Informed Neural Networks]].
 
 ### Autoformalization
 Using AI to translate ordinary written math into a formal language that a [[Glossary#Proof assistant|proof assistant]] can check. See [[Proof Assistants and Lean]].

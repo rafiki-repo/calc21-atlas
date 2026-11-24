@@ -1,12 +1,18 @@
 ---
 type: changelog
 status: draft
-updated: 2026-11-23
+updated: 2026-11-24
 ---
 
 # What's New
 
 Latest additions and changes to the Atlas, newest first. Back to [[Home]].
+
+## 2026-11-24
+- **Do AI tutors teach?** New [[Education]] note: [[AI Tutors in Math Class]] collects five randomized studies. In a Turkish high school (*PNAS*, 2025), an open GPT-4 chatbot gave 48% higher practice scores and then 17% lower exam scores. A Harvard physics trial reported more than double the learning gains of active learning. Khanmigo in 18 Tennessee middle schools gave small gains, about the same as Khan Academy without the AI. No randomized trial in college calculus turned up yet; the closest is a 2026 Calculus I case study.
+- **New application:** [[Physics-Informed Neural Networks]], which are trained to obey a differential equation. The note covers what they are good at (inverse problems, no grid) and the fine print (training can fail; they are usually slower and less accurate than classic solvers).
+- **Updated:** [[Calculus and AI]] adds IntegralBench (the best of nine models solved about half of 317 hard definite integrals, in a 2025 preprint). The [[Glossary]] adds *automatic differentiation*. Trails 4, 8, and 13 in [[Rabbit Holes]] get new stops.
+- **Also:** the [README](README.md) now links to the web version at calc21.com/atlas (thanks to the calc21.com team).
 
 ## 2026-11-23
 - **Calculus class, examined.** Two new [[Education]] notes. [[AP Calculus]] covers the AB and BC exams: shorter multiple-choice sections from May 2027, pass rates from 2002 to 2026 (BC takers nearly quadrupled), an unexplained 2024 jump in AB scores, and the new AP Precalculus. [[Active Learning in Calculus]] covers a 2023 *Science* trial at FIU: 811 students randomly assigned to group work or lectures, with better results for group work. Its fine print: instructors were not randomized, and it was run at one university.

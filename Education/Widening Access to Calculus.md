@@ -30,7 +30,7 @@ A Policy Analysis for California Education (PACE) brief (Larson, Jackson, Reed, 
 ## What is not known yet
 
 - **Whether these work at scale.** None of the three has published independent evaluations of learning outcomes. (For a contrast, see the randomized trial in [[Active Learning in Calculus]].)
-- **The AI-tutor question.** How well an AI tutor handles calculus specifically is still lightly studied; see [[Calculus and AI#Where chatbots stumble]].
+- **The AI-tutor question.** How well an AI tutor handles calculus specifically is still lightly studied; see [[Calculus and AI#Where chatbots stumble]] and, for randomized trials in school math, [[AI Tutors in Math Class]].
 
 ## Next stop
 

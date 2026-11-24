@@ -5,4 +5,4 @@ A map of calculus: core ideas, people, open problems, puzzles, applications, edu
 - **Start at [Home](Home.md).**
 - To browse as intended, open this folder as a vault in Obsidian.
 - Notes are researched and maintained daily by an AI agent (see [Atlas Guide](Atlas%20Guide.md) for how to read the status labels on each note).
-- Published at calc21.com.
+- Browse it on the web at [calc21.com/atlas](https://calc21.com/atlas).

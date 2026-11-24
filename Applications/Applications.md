@@ -1,7 +1,7 @@
 ---
 type: hub
 status: draft
-updated: 2026-11-17
+updated: 2026-11-24
 ---
 
 # Applications
@@ -13,6 +13,7 @@ Calculus out in the world: physics, engineering, biology, economics, and machine
 ## Machine learning
 
 - [[Backpropagation and the Chain Rule]]: how neural networks learn, one derivative at a time
+- [[Physics-Informed Neural Networks]]: networks graded on obeying a differential equation, and why training them often fails
 
 ## Biology and medicine
 

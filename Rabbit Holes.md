@@ -1,7 +1,7 @@
 ---
 type: hub
 status: draft
-updated: 2026-11-23
+updated: 2026-11-24
 ---
 
 # Rabbit Holes
@@ -41,6 +41,7 @@ Guided trails through the Atlas. Pick one and just keep clicking. Each trail cro
 5. [[Jacobian Conjecture]] — the 2026 counterexample anyone can check
 6. [[Navier-Stokes Smoothness Problem]] — the 2026 claim that takes months to check
 7. [[Terence Tao]] — the mathematician at the center of much of this
+8. [[AI Tutors in Math Class]] — and back in the classroom: do chatbot tutors teach?
 
 ## Trail 5: Calculus on a zero budget
 
@@ -75,7 +76,8 @@ Guided trails through the Atlas. Pick one and just keep clicking. Each trail cro
 2. [[Weather Forecasting]]: 64,000 imaginary human computers, then real ones
 3. [[SIR Epidemic Model]]: why outbreaks stop before everyone is infected
 4. [[Backpropagation and the Chain Rule]]: the chain rule, run millions of times inside AI
-5. [[Grant Sanderson]]: the animator who makes these ideas visible
+5. [[Physics-Informed Neural Networks]]: networks that must obey the equations
+6. [[Grant Sanderson]]: the animator who makes these ideas visible
 
 ## Trail 9: Strange calculi
 
@@ -117,8 +119,9 @@ Guided trails through the Atlas. Pick one and just keep clicking. Each trail cro
 1. [[AP Calculus]]: the exam that most US students meet first, and 25 years of pass rates
 2. [[Active Learning in Calculus]]: lectures vs group work, in a randomized trial
 3. [[Calculus or Statistics Debate]]: should calculus be the gateway at all?
-4. [[Widening Access to Calculus]]: why fewer California schools offer it, and who is trying to fill the gap
-5. [[Free Calculus Textbooks]]: what a school with no budget can use
+4. [[AI Tutors in Math Class]]: what randomized trials say about chatbot tutors
+5. [[Widening Access to Calculus]]: why fewer California schools offer it, and who is trying to fill the gap
+6. [[Free Calculus Textbooks]]: what a school with no budget can use
 
 ---
 

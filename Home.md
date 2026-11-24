@@ -1,7 +1,7 @@
 ---
 type: hub
 status: draft
-updated: 2026-11-23
+updated: 2026-11-24
 ---
 
 # Calc21 Atlas
@@ -57,6 +57,8 @@ Calculus is **two ideas and one surprise**. The first idea: you can measure *how
 - **Which calculus book is still in print after more than a century?** → [[Calculus Made Easy]]
 - **What is the biggest sofa you can carry around a corner?** → [[Moving Sofa Problem]]
 - **Can a neural network find where a fluid equation breaks? (Yes, almost: proving it is the hard part.)** → [[Javier Gomez-Serrano]]
+- **Does a chatbot tutor help you learn, or just help you finish the homework?** → [[AI Tutors in Math Class]]
+- **Can a neural network be taught to obey a differential equation?** → [[Physics-Informed Neural Networks]]
 - **Is 1 + 1/32 + 1/243 + ... a fraction? (A 2026 preprint says no, and computers agree.)** → [[Irrationality of Zeta Values]]
 
 ---

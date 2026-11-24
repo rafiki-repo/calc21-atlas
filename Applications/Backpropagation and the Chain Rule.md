@@ -37,5 +37,6 @@ $$\frac{\partial C}{\partial w} = \frac{\partial z}{\partial w}\cdot\frac{\parti
 
 - [[Grant Sanderson]]: the explainer behind that lesson
 - [[Calculus and AI]]: what happens when AI is asked to *do* calculus
+- [[Physics-Informed Neural Networks]]: the same machinery, used to solve differential equations
 - [[Glossary#Chain rule]]
 - [[Applications]]
