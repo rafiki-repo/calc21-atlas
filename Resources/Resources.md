@@ -1,7 +1,7 @@
 ---
 type: hub
 status: draft
-updated: 2026-11-22
+updated: 2026-11-25
 ---
 
 # Resources
@@ -12,7 +12,7 @@ The best places to learn, explore, and compute. Back to [[Home]].
 
 ## Textbooks
 
-- [[Free Calculus Textbooks]]: OpenStax and Active Calculus compared (free, open-licensed)
+- [[Free Calculus Textbooks]]: OpenStax and Active Calculus compared, plus UBC's four-volume CLP Calculus (free, open-licensed)
 - [[Gilbert Strang]]'s *Calculus* (3rd ed.): a complete single- and multivariable text, free as PDF on MIT OpenCourseWare
 - Keisler's *Elementary Calculus: An Infinitesimal Approach*: first-year calculus done with infinitesimals instead of limits (free online). See [[Nonstandard Analysis]].
 
@@ -31,6 +31,10 @@ The best places to learn, explore, and compute. Back to [[Home]].
 
 - [[CalcPlot3D]]: spin surfaces and vector fields in the browser (free)
 
+## Software: graphing and computer algebra
+
+- [[Graphing and Computer Algebra Tools]]: Desmos, GeoGebra, SageMath, SymPy, and Wolfram|Alpha compared (mostly free)
+
 ## Videos and channels
 
 - 3Blue1Brown: visual explainers, including *Essence of Calculus* (free). See [[Grant Sanderson]].
@@ -48,7 +52,4 @@ The best places to learn, explore, and compute. Back to [[Home]].
 ## Elsewhere in the Atlas
 
 - [[Widening Access to Calculus]]: free courseware, tutoring programs, and AI tutors
-
-## Still to map
-
-- **Software:** graphing calculators and computer algebra
+- [[Discrete Calculus]]: free tutorials on finite calculus, the shortcut for sums

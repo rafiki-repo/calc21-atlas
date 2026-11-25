@@ -1,8 +1,8 @@
 ---
 type: puzzle
 status: draft
-updated: 2026-11-15
-last_checked: 2026-11-15
+updated: 2026-11-25
+last_checked: 2026-11-25
 tags: [competition, proofs, ai]
 sources: [kskedlaya.org, news.mit.edu, matharena.ai]
 ---
@@ -23,6 +23,17 @@ The **William Lowell Putnam Mathematical Competition** is run by the Mathematica
 ## The AI angle
 
 **MathArena** (an AI evaluation group) submitted anonymized solutions from six AI systems, and the official Putnam graders scored them with the usual rubrics. According to MathArena, the best system, a DeepSeek-based agent, scored **103/120**. That would place it in the top 3 of 4,329 human participants and above the Fellow cutoff. The caveats, also from MathArena: graders found many AI solutions verbose, the evaluation was partly funded by a Google DeepMind grant, and graders knew which solutions came from AI. See [[Calculus and AI]].
+
+## Try one: 2025, problem A2
+
+> Find the largest *a* and the smallest *b* such that *a*·*x*(π − *x*) ≤ sin *x* ≤ *b*·*x*(π − *x*) for every *x* between 0 and π.
+
+In plain words: squeeze the sine arch between two upside-down parabolas. It is a first-semester calculus problem in disguise, since the solution in Kedlaya's archive studies the ratio sin *x* / (*x*(π − *x*)) and its derivative.
+
+<details><summary>Answer</summary>
+
+*a* = 1/π and *b* = 4/π². The ratio climbs from 1/π (its limit at *x* = 0) to 4/π² at the midpoint *x* = π/2. Full solutions: [2025 solutions PDF](https://kskedlaya.org/putnam-archive/2025s.pdf) (by Manjul Bhargava, Kiran Kedlaya, and Lenny Ng; unofficial).
+</details>
 
 ## Play along
 

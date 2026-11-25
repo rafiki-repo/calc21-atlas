@@ -1,7 +1,7 @@
 ---
 type: hub
 status: draft
-updated: 2026-11-24
+updated: 2026-11-25
 ---
 
 # Rabbit Holes
@@ -45,12 +45,12 @@ Guided trails through the Atlas. Pick one and just keep clicking. Each trail cro
 
 ## Trail 5: Calculus on a zero budget
 
-1. [[Free Calculus Textbooks]] — two open textbooks, side by side
+1. [[Free Calculus Textbooks]] — open textbooks, side by side
 2. [[MIT OCW Single Variable Calculus]] — an MIT semester, no tuition
 3. [[Gilbert Strang]] — a second MIT calculus, as a free book and 17 short videos
 4. [[Trefor Bazett]] — free "video books" that pair lessons with exercises
-5. [[Fundamental Theorem of Calculus]] — where the semester is headed
-6. [[CalcPlot3D]] — for when calculus goes 3D
+5. [[CalcPlot3D]] — for when calculus goes 3D
+6. [[Graphing and Computer Algebra Tools]] — free graphing and algebra in a browser tab
 7. [[Widening Access to Calculus]] — who is trying to get calculus to more students
 
 ## Trail 6: Medal-winning analysis
@@ -86,6 +86,7 @@ Guided trails through the Atlas. Pick one and just keep clicking. Each trail cro
 3. [[Nonstandard Analysis]]: the infinitesimals Berkeley mocked, made rigorous
 4. [[Stochastic Calculus]]: calculus on a path with no slope anywhere
 5. [[Black-Scholes Equation]]: where random-path calculus went to Wall Street
+6. [[Discrete Calculus]]: no infinitely small steps at all, just steps of 1
 
 ## Trail 10: Calculus before calculus
 
@@ -128,5 +129,5 @@ Guided trails through the Atlas. Pick one and just keep clicking. Each trail cro
 ## Trails we want to build
 
 - **Who's who now:** today's voices in analysis and in explaining calculus (started: [[Grant Sanderson]], [[Gilbert Strang]], [[Trefor Bazett]], [[Terence Tao]], [[Javier Gomez-Serrano]]; see also Trail 12)
-- **Strange calculi, part 2:** discrete calculus and q-calculus
+- **Strange calculi, part 2:** q-calculus (discrete calculus joined Trail 9)
 - **Calculus before calculus, part 2:** Ibn al-Haytham, Cavalieri, Fermat

@@ -1,7 +1,7 @@
 ---
 type: hub
 status: draft
-updated: 2026-11-24
+updated: 2026-11-25
 ---
 
 # Calc21 Atlas
@@ -59,6 +59,8 @@ Calculus is **two ideas and one surprise**. The first idea: you can measure *how
 - **Can a neural network find where a fluid equation breaks? (Yes, almost: proving it is the hard part.)** → [[Javier Gomez-Serrano]]
 - **Does a chatbot tutor help you learn, or just help you finish the homework?** → [[AI Tutors in Math Class]]
 - **Can a neural network be taught to obey a differential equation?** → [[Physics-Informed Neural Networks]]
+- **Is there a calculus where the smallest step is 1? (Yes, and it sums 1² + 2² + ... + n² in one line.)** → [[Discrete Calculus]]
+- **Which free tools graph, differentiate, and integrate for you, and who owns them?** → [[Graphing and Computer Algebra Tools]]
 - **Is 1 + 1/32 + 1/243 + ... a fraction? (A 2026 preprint says no, and computers agree.)** → [[Irrationality of Zeta Values]]
 
 ---

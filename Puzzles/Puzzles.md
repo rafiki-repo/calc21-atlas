@@ -1,7 +1,7 @@
 ---
 type: hub
 status: draft
-updated: 2026-11-15
+updated: 2026-11-25
 ---
 
 # Puzzles
@@ -19,7 +19,7 @@ Famous integrals, series, and problems to play with, plus the competitions that 
 ## Competitions
 
 - [[MIT Integration Bee]]: speed integration, live on stage, every January
-- [[Putnam Competition]]: six hours, twelve proofs, and in 2025 an AI entrant
+- [[Putnam Competition]]: six hours, twelve proofs, and in 2025 an AI entrant (plus a 2025 problem to try)
 
 ## Still to map
 

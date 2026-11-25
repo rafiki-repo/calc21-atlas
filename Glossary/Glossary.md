@@ -1,7 +1,7 @@
 ---
 type: glossary
 status: draft
-updated: 2026-11-24
+updated: 2026-11-25
 sources: unverified-seed
 ---
 
@@ -31,6 +31,9 @@ The random, jittery path of a small particle knocked about by molecules, and the
 ### Chain rule
 The rule for differentiating a function inside another function: multiply the rates of change of each link in the chain. It is the engine of neural-network training; see [[Backpropagation and the Chain Rule]].
 
+### Computer algebra system (CAS)
+Software that manipulates symbols, returning exact derivatives, integrals, and limits rather than decimals. Examples include SageMath, SymPy, and the engine behind Wolfram|Alpha. See [[Graphing and Computer Algebra Tools]].
+
 ### Continuity
 A function is continuous if you can draw its graph without lifting your pencil: small changes in the input cause only small changes in the output.
 
@@ -57,6 +60,9 @@ The number γ ≈ 0.5772, the limit of (1 + 1/2 + ... + 1/n) − ln n. Nobody kn
 If a function is [[Glossary#Continuity|continuous]] on a closed interval [a, b], it reaches a largest and a smallest value somewhere on that interval. Drop "closed" or "continuous" and it can fail. See [[AP Calculus]], whose syllabus reworded it for Fall 2026.
 
 ## F
+
+### Finite difference
+The change in a function over a fixed step instead of an infinitely small one: *f*(*x* + 1) − *f*(*x*). It is the discrete cousin of the derivative. See [[Discrete Calculus]].
 
 ### Formal proof
 A proof written in a precise language in which software can check every step. See [[Proof Assistants and Lean]].

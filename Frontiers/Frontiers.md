@@ -1,7 +1,7 @@
 ---
 type: hub
 status: draft
-updated: 2026-11-17
+updated: 2026-11-25
 ---
 
 # Frontiers
@@ -25,5 +25,6 @@ Versions of calculus built for jobs the ordinary kind can't do.
 - [[Fractional Calculus]]: half derivatives, and derivatives with memory
 - [[Stochastic Calculus]]: Itô's calculus for random, jittery paths
 - [[Nonstandard Analysis]]: infinitely small numbers, made rigorous in the 1960s
+- [[Discrete Calculus]]: step size 1, sums instead of integrals, and a power rule for falling powers
 
-*Still to map:* discrete calculus (finite differences) and q-calculus.
+*Still to map:* q-calculus.

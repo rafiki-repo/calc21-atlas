@@ -1,7 +1,7 @@
 ---
 type: topic
 status: draft
-updated: 2026-11-23
+updated: 2026-11-25
 last_checked: 2026-11-23
 tags: [ap-calculus, ap-precalculus, exams, high-school, college-board]
 sources: [apcentral.collegeboard.org, apstudents.collegeboard.org, allaccess.collegeboard.org, edweek.org]
@@ -15,7 +15,7 @@ sources: [apcentral.collegeboard.org, apstudents.collegeboard.org, allaccess.col
 
 - **AP Calculus AB** covers roughly a first semester of college calculus: limits, derivatives, integrals, and the [[Fundamental Theorem of Calculus]].
 - **AP Calculus BC** covers AB plus more: series, parametric and polar curves, and more integration. BC takers also get an AB subscore.
-- **Format (2027 exam):** a hybrid digital exam. Multiple choice is taken in College Board's Bluebook app; free-response answers are still **handwritten** on paper. Each half counts for 50%. Some parts ban calculators; others require a graphing calculator.
+- **Format (2027 exam):** a hybrid digital exam. Multiple choice is taken in College Board's Bluebook app; free-response answers are still **handwritten** on paper. Each half counts for 50%. Some parts ban calculators; others require a graphing calculator. In the calculator parts, a **built-in Desmos graphing calculator** is available in Bluebook, and students may also bring up to two approved handhelds ([calculator policy](https://apcentral.collegeboard.org/exam-administration-ordering-scores/administering-exams/exam-policies/calculator-policy), checked 2026-11-25). See [[Graphing and Computer Algebra Tools]].
 
 ## What changes for 2026-27
 

@@ -1,11 +1,11 @@
 ---
 type: resource
 status: draft
-updated: 2026-11-22
+updated: 2026-11-25
 last_checked: 2026-11-13
 cost: free online; optional paid print
 tags: [textbooks, oer, open-source]
-sources: [openstax.org, activecalculus.org]
+sources: [openstax.org, activecalculus.org, personal.math.ubc.ca]
 ---
 
 # Free Calculus Textbooks
@@ -29,6 +29,7 @@ sources: [openstax.org, activecalculus.org]
 
 ## Also free
 
+- **[CLP Calculus](https://personal.math.ubc.ca/~CLP/)** (UBC): four volumes (differential, integral, multivariable, vector) plus problem books, by Joel Feldman, Andrew Rechnitzer, and Elyse Yeager. Written around 2015-2018 because textbook prices kept rising. Free PDF and web versions; CC BY-NC-SA 4.0 source files (checked 2026-11-25).
 - **Strang's own *Calculus*** (3rd ed., first printed 1991): one volume, single variable through vector calculus, as a PDF on MIT OpenCourseWare. See [[Gilbert Strang]] (checked 2026-11-22).
 
 ## Good for / not good for
