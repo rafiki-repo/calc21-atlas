@@ -1,12 +1,17 @@
 ---
 type: changelog
 status: draft
-updated: 2026-11-25
+updated: 2026-11-26
 ---
 
 # What's New
 
 Latest additions and changes to the Atlas, newest first. Back to [[Home]].
+
+## 2026-11-26
+- **The Riemann hypothesis, claimed.** New [[Open Problems]] note: [[Riemann Hypothesis]]. On Nov 20, [[Levent Alpoge|Levent Alpöge]] posted a claimed proof made "working with Claude": a four-page paper and about 17 million lines of Lean. A day later the Lean FRO and the Mathlib Initiative certified the Lean proof. Mathematicians do not yet understand the argument, and nothing is peer reviewed. The note also covers two earlier 2026 steps: an Anthropic model's bound putting at least 67.2% of zeros on the critical line (Aug) and OpenAI's quasi-Riemann hypothesis (Oct).
+- **2026's prizes in analysis.** [[Research Watch]] adds the 2026 Clay Research Awards (Orponen, Shmerkin, Wang, and Zahl for Kakeya and Furstenberg; Deng and Hani for Boltzmann) and the King Faisal Prize. New profile: [[Carlos Kenig]] (Chicago), who won that prize for nonlinear PDEs and was IMU president from 2019 to 2022.
+- **Also:** [[Kakeya Conjecture]] adds its cousin, the Furstenberg set conjecture (proved in the plane by Ren and Wang, 2023 preprint). [[Proof Assistants and Lean]], [[AI as Research Collaborator]] (episode 6), [[Levent Alpoge]], and [[Basel Problem]] link to the new note. The [[Glossary]] adds *dispersive equation* and *Riemann zeta function*. New Trail 14 in [[Rabbit Holes]], "From π²/6 to the Riemann hypothesis."
 
 ## 2026-11-25
 - **The software shelf.** New [[Resources]] note: [[Graphing and Computer Algebra Tools]] compares Desmos, GeoGebra, SageMath, SymPy, and Wolfram|Alpha: what each does, what it costs, and who runs it. Also: a built-in Desmos calculator comes with the calculator parts of the 2027 AP Calculus exams, and an Oct 2025 list of assets for sale in the insolvency of BYJU'S, GeoGebra's parent group, includes its GeoGebra stake.

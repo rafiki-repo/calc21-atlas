@@ -58,6 +58,7 @@ Every number here is a **limit**: an infinite [[Glossary#Series|series]] or a su
 ## Next stop
 
 - [[Basel Problem]]: the ζ(2) story that started it all
+- [[Riemann Hypothesis]]: the other big 2026 question about ζ, and its claimed proof
 - [[Proof Assistants and Lean]]: how a 29,000-line proof check works
 - [[Moving Sofa Problem]]: another claimed proof waiting on referees
 - [[Open Problems]]

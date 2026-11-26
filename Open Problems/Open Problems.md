@@ -1,7 +1,7 @@
 ---
 type: hub
 status: draft
-updated: 2026-11-20
+updated: 2026-11-26
 ---
 
 # Open Problems
@@ -14,6 +14,7 @@ Every entry states its **status** and **last_checked** date. Claimed proofs are 
 
 | Problem | Area | Hook |
 |---|---|---|
+| [[Riemann Hypothesis]] | Complex analysis / number theory | Where are the zeros of the zeta function? (proof claimed with AI, Nov 2026; Lean-certified, not yet understood by humans) |
 | [[Navier-Stokes Smoothness Problem]] | Differential equations | Do smooth fluid flows stay smooth forever? (forced blow-up claimed with AI, 2026; under review) |
 | [[Jacobian Conjecture]] | Multivariable calculus / algebra | When is a polynomial map reversible? (false in 3D+ since 2026; 2D open) |
 | [[Kakeya Conjecture]] | Harmonic analysis | How thin can a needle-turning set be? (3D case: proof posted 2025) |

@@ -1,7 +1,7 @@
 ---
 type: hub
 status: draft
-updated: 2026-11-22
+updated: 2026-11-26
 ---
 
 # People
@@ -27,7 +27,8 @@ Each person note says **what they contributed or are known for**, with sources, 
 - [[Hong Wang]]: 2026 Fields Medalist; proved the 3D Kakeya conjecture with Joshua Zahl
 - [[Yu Deng]]: 2026 Fields Medalist; derives fluid and kinetic equations from particle dynamics
 - [[Cordoba and Martinez-Zoroa|Diego Córdoba and Luis Martínez-Zoroa]]: the Madrid duo whose blow-up blueprint the 2026 AI fluid results built on
-- [[Levent Alpoge|Levent Alpöge]]: number theorist behind the AI-assisted 2026 Jacobian counterexample
+- [[Levent Alpoge|Levent Alpöge]]: number theorist behind the AI-assisted 2026 Jacobian counterexample and the Nov 2026 Riemann hypothesis claim
+- [[Carlos Kenig]]: Chicago analyst of nonlinear dispersive equations; IMU president 2019-2022; 2026 King Faisal Prize
 - [[Tristan Buckmaster]]: NYU fluids analyst; wild weak solutions, then neural-network blow-up hunting and the 2026 forced-Euler claim
 - [[Javier Gomez-Serrano|Javier Gómez-Serrano]]: Brown analyst of computer-assisted proofs; co-leads the AI singularity search and worked on AlphaEvolve
 - Thomas Hou (Caltech): with Guo Luo (2013-14), found a blow-up scenario for the Euler equations in a spinning fluid. With Jiajie Chen he gave a computer-assisted proof in a 2022 preprint ([Caltech news](https://www.pma.caltech.edu/news/pushing-the-boundaries-of-fluid-equations)). The AI hunts in [[AI as Research Collaborator]] started by rediscovering it

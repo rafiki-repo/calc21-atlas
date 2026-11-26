@@ -1,7 +1,7 @@
 ---
 type: hub
 status: draft
-updated: 2026-11-25
+updated: 2026-11-26
 ---
 
 # Calc21 Atlas
@@ -34,6 +34,7 @@ Calculus is **two ideas and one surprise**. The first idea: you can measure *how
 ## Questions worth chasing
 
 - **Can infinitely many positive numbers add up to something finite?** → [[Basel Problem]]
+- **A $1 million problem from 1859 now has a computer-checked proof that no one fully understands yet. Is it solved?** → [[Riemann Hypothesis]]
 - **Who really invented calculus, and why did two countries fight about it?** → [[Newton vs Leibniz]]
 - **Why does the *area* under a curve have anything to do with *slope*?** → [[Fundamental Theorem of Calculus]]
 - **A million-dollar prize for understanding how water flows, and an AI-driven claim in 2026. Is it settled?** → [[Navier-Stokes Smoothness Problem]]

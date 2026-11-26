@@ -1,10 +1,10 @@
 ---
 type: open-problem
 status: draft
-updated: 2026-11-20
-last_checked: 2026-11-14
+updated: 2026-11-26
+last_checked: 2026-11-26
 tags: [harmonic-analysis, geometric-measure-theory, fourier-analysis]
-sources: [arxiv.org/abs/2502.17655, plus.maths.org, math.ubc.ca, simonsfoundation.org]
+sources: [arxiv.org/abs/2502.17655, arxiv.org/abs/2308.08819, plus.maths.org, math.ubc.ca, simonsfoundation.org, claymath.org]
 ---
 
 # Kakeya Conjecture
@@ -26,6 +26,8 @@ sources: [arxiv.org/abs/2502.17655, plus.maths.org, math.ubc.ca, simonsfoundatio
 | 4 and up | **Open** |
 
 The 3D proof built on a 2022 Wang–Zahl paper on "sticky" Kakeya sets, which followed a program set out by Katz and [[Terence Tao]], and on earlier work by Łaba, Katz, Tao, Shmerkin, Pramanik, Yang, and Zahl.
+
+**A cousin, settled first.** The **Furstenberg set conjecture** asks a similar question about how thin tubes can overlap in the plane. Kevin Ren and Hong Wang posted a proof in 2023 ([arXiv 2308.08819](https://arxiv.org/abs/2308.08819), no journal reference listed as of 2026-11-26). In April 2026 the Clay Research Award went jointly to Tuomas Orponen, Pablo Shmerkin, Wang, and Zahl for the line of work behind both results; Clay notes that Ren "also made a substantial contribution" ([Clay announcement](https://www.claymath.org/news/2026-clay-research-awards/)).
 
 ## Why it connects to calculus
 

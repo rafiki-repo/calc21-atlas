@@ -1,7 +1,7 @@
 ---
 type: glossary
 status: draft
-updated: 2026-11-25
+updated: 2026-11-26
 sources: unverified-seed
 ---
 
@@ -50,6 +50,9 @@ The instantaneous rate of change of a function; the slope of its graph at a poin
 
 ### Differential equation
 An equation involving a function and its derivatives. Solving it means finding the function. Everyday examples: [[SIR Epidemic Model]], [[Weather Forecasting]]. See [[Navier-Stokes Smoothness Problem]] for a famous case, and a contested 2026 claim.
+
+### Dispersive equation
+A wave equation in which waves of different frequencies travel at different speeds, so a bump spreads out over time. In *nonlinear* dispersive equations the spreading competes with effects that pull waves together, which can produce solitary waves that keep their shape. See [[Carlos Kenig]].
 
 ## E
 
@@ -130,6 +133,9 @@ Software, such as Lean, that checks proofs step by step against strict logical r
 
 ### Riemann sum
 An approximation of an integral made by chopping an interval into thin strips and adding up their areas. As the strips get thinner, the sum approaches the integral. Competition problems sometimes hide one inside a limit; see [[MIT Integration Bee]].
+
+### Riemann zeta function
+ζ(*s*) = 1 + 1/2^*s* + 1/3^*s* + ..., extended by Riemann (1859) to complex numbers *s*. ζ(2) = π²/6 is the [[Basel Problem]]. Where ζ equals zero is the [[Riemann Hypothesis]].
 
 ## S
 

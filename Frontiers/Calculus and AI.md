@@ -35,7 +35,7 @@ The evidence is still thin and mostly from preprints or vendors, but some consis
 ## Next stop
 
 - [[Proof Assistants and Lean]]: how a computer can *check* a calculus proof
-- [[AI as Research Collaborator]]: AlphaEvolve, a fallen conjecture, and the contested Navier-Stokes claim
+- [[AI as Research Collaborator]]: AlphaEvolve, a fallen conjecture, the contested Navier-Stokes claim, and the Riemann hypothesis claim
 - [[Terence Tao]]: a central figure in both analysis and AI-assisted math
 - [[AI Tutors in Math Class]]: what randomized trials say about chatbot tutors
 - [[Backpropagation and the Chain Rule]]: the calculus inside the machines

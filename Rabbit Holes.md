@@ -1,7 +1,7 @@
 ---
 type: hub
 status: draft
-updated: 2026-11-25
+updated: 2026-11-26
 ---
 
 # Rabbit Holes
@@ -30,7 +30,8 @@ Guided trails through the Atlas. Pick one and just keep clicking. Each trail cro
 1. [[Navier-Stokes Smoothness Problem]] — a prize problem with a 2026 claim still under review
 2. [[Jacobian Conjecture]] — a deceptively simple claim that fell in 3D, and survives in 2D
 3. [[Moving Sofa Problem]] — a 60-year furniture puzzle, with a proof still in review
-4. [[Open Problems]] — the full list
+4. [[Riemann Hypothesis]] — the biggest of them all, with a computer-checked proof humans are still reading
+5. [[Open Problems]] — the full list
 
 ## Trail 4: Calculus vs the machines
 
@@ -123,6 +124,15 @@ Guided trails through the Atlas. Pick one and just keep clicking. Each trail cro
 4. [[AI Tutors in Math Class]]: what randomized trials say about chatbot tutors
 5. [[Widening Access to Calculus]]: why fewer California schools offer it, and who is trying to fill the gap
 6. [[Free Calculus Textbooks]]: what a school with no budget can use
+
+## Trail 14: From π²/6 to the Riemann hypothesis
+
+1. [[Basel Problem]]: Euler adds up 1/n² and finds π²/6
+2. [[Irrationality of Zeta Values]]: the same sum with odd powers, and whether the answers are fractions
+3. [[Riemann Hypothesis]]: where the zeta function equals zero, and the Nov 2026 claim
+4. [[Proof Assistants and Lean]]: how 17 million lines of proof get checked
+5. [[AI as Research Collaborator]]: how AI got here, one episode at a time
+6. [[Levent Alpoge]]: the claimant
 
 ---
 
