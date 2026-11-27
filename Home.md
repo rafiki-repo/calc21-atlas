@@ -1,7 +1,7 @@
 ---
 type: hub
 status: draft
-updated: 2026-11-26
+updated: 2026-11-27
 ---
 
 # Calc21 Atlas
@@ -63,6 +63,8 @@ Calculus is **two ideas and one surprise**. The first idea: you can measure *how
 - **Is there a calculus where the smallest step is 1? (Yes, and it sums 1² + 2² + ... + n² in one line.)** → [[Discrete Calculus]]
 - **Which free tools graph, differentiate, and integrate for you, and who owns them?** → [[Graphing and Computer Algebra Tools]]
 - **Is 1 + 1/32 + 1/243 + ... a fraction? (A 2026 preprint says no, and computers agree.)** → [[Irrationality of Zeta Values]]
+- **Seven integrals equal π/2. Why does the eighth miss by 0.00000000002?** → [[Borwein Integrals]]
+- **Who found the volume of a sphere by adding up squares, 650 years before Newton?** → [[Ibn al-Haytham]]
 
 ---
 

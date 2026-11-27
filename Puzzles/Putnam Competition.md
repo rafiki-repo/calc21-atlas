@@ -1,10 +1,10 @@
 ---
 type: puzzle
 status: draft
-updated: 2026-11-25
-last_checked: 2026-11-25
+updated: 2026-11-27
+last_checked: 2026-11-27
 tags: [competition, proofs, ai]
-sources: [kskedlaya.org, news.mit.edu, matharena.ai]
+sources: [kskedlaya.org, news.mit.edu, matharena.ai, math.gatech.edu, math.toronto.edu]
 ---
 
 # Putnam Competition
@@ -13,7 +13,11 @@ sources: [kskedlaya.org, news.mit.edu, matharena.ai]
 
 ## What it is
 
-The **William Lowell Putnam Mathematical Competition** is run by the Mathematical Association of America (MAA). It is held on the first Saturday of December for college students in the US and Canada. The exam has two 3-hour sessions (A and B) of six problems each. Each answer is graded as a **full proof**, out of 10 points. Calculus and real analysis are regular ingredients, alongside algebra, number theory, and combinatorics. Top individuals are named **Putnam Fellows**.
+The **William Lowell Putnam Mathematical Competition** is run by the Mathematical Association of America (MAA). It is held on the first Saturday of December for college students in the US and Canada. Through 2025 the exam had two 3-hour sessions (A and B) of six problems each. Each answer is graded as a **full proof**, out of 10 points. Calculus and real analysis are regular ingredients, alongside algebra, number theory, and combinatorics. Top individuals are named **Putnam Fellows**. More than 4,300 students took the 2025 exam, and the median score was 2 out of 120 (per Virginia Tech's math department).
+
+## New in 2026: four short sessions
+
+The **87th Putnam is on Saturday, Dec 5, 2026**, and the format changes. University pages at Georgia Tech and Toronto (checked 2026-11-27) say there are now **four 90-minute sessions of three problems each**, replacing the two 3-hour sessions. Georgia Tech reports that the MAA says the changes were made "in anticipation of challenges posed by AI to competition security." The MAA's own page could not be fetched (403), so the wording comes from those university pages.
 
 ## The 86th Putnam (Dec 6, 2025)
 

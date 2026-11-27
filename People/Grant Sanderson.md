@@ -1,7 +1,7 @@
 ---
 type: person
 status: draft
-updated: 2026-11-16
+updated: 2026-11-27
 last_checked: 2026-11-16
 tags: [educator, youtube, visualization, popularizer]
 sources: [3blue1brown.com]
@@ -30,4 +30,5 @@ sources: [3blue1brown.com]
 - [[Fundamental Theorem of Calculus]]: the payoff of the *Essence of Calculus* first chapter
 - [[Basel Problem]]: links to his geometric proof video
 - [[Backpropagation and the Chain Rule]]
+- [[Borwein Integrals]]: his 2022 video on the pattern that breaks at 15
 - [[People]]

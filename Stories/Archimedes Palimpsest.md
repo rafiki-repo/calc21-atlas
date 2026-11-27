@@ -1,7 +1,7 @@
 ---
 type: story
 status: draft
-updated: 2026-11-18
+updated: 2026-11-27
 last_checked: 2026-11-18
 tags: [history, ancient-greek, manuscripts, infinity]
 sources: [cnrs.fr, archimedespalimpsest.org, sciencenews.org]
@@ -37,6 +37,7 @@ Stanford historian **Reviel Netz** reads Proposition 14 of *The Method* as Archi
 
 ## Next stop
 
+- [[Ibn al-Haytham]]: the slicing method again, in Cairo around 1000
 - [[Kerala School]]: the next forerunner, 1,600 years later
 - [[Fundamental Theorem of Calculus]]: why slicing and slopes turned out to be the same subject
 - [[Nonstandard Analysis]]: infinitely small pieces, finally made rigorous

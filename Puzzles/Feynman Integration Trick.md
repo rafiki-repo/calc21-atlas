@@ -1,7 +1,7 @@
 ---
 type: puzzle
 status: draft
-updated: 2026-11-15
+updated: 2026-11-27
 last_checked: 2026-11-15
 tags: [integration, techniques, feynman, leibniz]
 sources: [kconrad.math.uconn.edu]
@@ -40,5 +40,6 @@ Swapping a derivative and an integral is not always allowed. The rule needs the 
 
 - [[MIT Integration Bee]]: where tricks like this win trophies
 - [[Fundamental Theorem of Calculus]]: the derivative-integral relationship this trick exploits
+- [[Borwein Integrals]]: start from ∫ sin(x)/x = π/2, multiply in more sincs, and watch the pattern break
 - [[Glossary#Partial derivative]]
 - [[Puzzles]]

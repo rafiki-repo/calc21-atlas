@@ -1,7 +1,7 @@
 ---
 type: glossary
 status: draft
-updated: 2026-11-26
+updated: 2026-11-27
 sources: unverified-seed
 ---
 
@@ -39,6 +39,9 @@ A function is continuous if you can draw its graph without lifting your pencil: 
 
 ### Convergence
 A sequence or series *converges* if it settles toward a single finite value. If it doesn't, it *diverges*. See [[Basel Problem]].
+
+### Convolution
+A way of blending two functions by sliding one across the other and adding up the overlap, a kind of moving average. It explains why the [[Borwein Integrals]] pattern breaks.
 
 ### Counterexample
 A single specific case that shows a general claim is false. One is enough. See [[Jacobian Conjecture]].
@@ -141,6 +144,9 @@ An approximation of an integral made by chopping an interval into thin strips an
 
 ### Series
 A sum of infinitely many terms. See [[Basel Problem]].
+
+### Sinc function
+sinc(*x*) = sin(*x*)/*x*, a wave that shrinks as it moves away from 0 (where its value is 1). Its integral over the whole line is π. Star of the [[Borwein Integrals]].
 
 ### Singularity
 A point or moment where a solution stops making sense, usually because some quantity becomes infinite. In fluids this is called **blow-up**. A blow-up is *unstable* if the tiniest change to the starting data makes it disappear. See [[Navier-Stokes Smoothness Problem]] and [[Tristan Buckmaster]].

@@ -1,7 +1,7 @@
 ---
 type: hub
 status: draft
-updated: 2026-11-26
+updated: 2026-11-27
 ---
 
 # Rabbit Holes
@@ -22,8 +22,9 @@ Guided trails through the Atlas. Pick one and just keep clicking. Each trail cro
 
 1. [[Basel Problem]] — adding up 1/n² and landing on π²/6
 2. [[Irrationality of Zeta Values]] — swap squares for fifth powers, and a 2026 preprint finally says "not a fraction"
-3. [[Glossary]] — "series" and "convergence" in plain words
-4. [[Puzzles]] — more mathematical mischief of this kind
+3. [[Sophomores Dream|Sophomore's Dream]] — an integral equals 1 + 1/2² + 1/3³ + ..., and the joke name says it shouldn't
+4. [[Glossary]] — "series" and "convergence" in plain words
+5. [[Puzzles]] — more mathematical mischief of this kind
 
 ## Trail 3: The edge of what's known
 
@@ -68,8 +69,9 @@ Guided trails through the Atlas. Pick one and just keep clicking. Each trail cro
 1. [[MIT Integration Bee]] — five minutes, one integral, a live audience
 2. [[Feynman Integration Trick]] — the tool Feynman said won him his reputation
 3. [[Basel Problem]] — the 17th-century puzzle that made Euler famous
-4. [[Putnam Competition]] — twelve proofs in six hours
-5. [[Calculus and AI]] — when the machines entered the Putnam too
+4. [[Putnam Competition]] — twelve proofs in six hours, cut into four sessions from 2026
+5. [[Borwein Integrals]] — a pattern that holds seven times, then breaks
+6. [[Calculus and AI]] — when the machines entered the Putnam too
 
 ## Trail 8: Calculus at work
 
@@ -92,10 +94,11 @@ Guided trails through the Atlas. Pick one and just keep clicking. Each trail cro
 ## Trail 10: Calculus before calculus
 
 1. [[Archimedes Palimpsest]]: slicing shapes on a lever, rescued from under a prayer book
-2. [[Kerala School]]: π, sine, and cosine as infinite series, around 1400
-3. [[Newton vs Leibniz]]: Europe's version, and its credit fight
-4. [[Fundamental Theorem of Calculus]]: the link the forerunners did not state in general
-5. [[Nonstandard Analysis]]: the infinitely small, finally made rigorous
+2. [[Ibn al-Haytham]]: the sphere again, by stacked cylinders and a sum of squares, around 1000
+3. [[Kerala School]]: π, sine, and cosine as infinite series, around 1400
+4. [[Newton vs Leibniz]]: Europe's version, and its credit fight
+5. [[Fundamental Theorem of Calculus]]: the link the forerunners did not state in general
+6. [[Nonstandard Analysis]]: the infinitely small, finally made rigorous
 
 ## Trail 11: Calculus in public
 
@@ -140,4 +143,4 @@ Guided trails through the Atlas. Pick one and just keep clicking. Each trail cro
 
 - **Who's who now:** today's voices in analysis and in explaining calculus (started: [[Grant Sanderson]], [[Gilbert Strang]], [[Trefor Bazett]], [[Terence Tao]], [[Javier Gomez-Serrano]]; see also Trail 12)
 - **Strange calculi, part 2:** q-calculus (discrete calculus joined Trail 9)
-- **Calculus before calculus, part 2:** Ibn al-Haytham, Cavalieri, Fermat
+- **Calculus before calculus, part 2:** Cavalieri, Fermat (Ibn al-Haytham joined Trail 10)

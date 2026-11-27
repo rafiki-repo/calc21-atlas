@@ -1,12 +1,19 @@
 ---
 type: changelog
 status: draft
-updated: 2026-11-26
+updated: 2026-11-27
 ---
 
 # What's New
 
 Latest additions and changes to the Atlas, newest first. Back to [[Home]].
+
+## 2026-11-27
+- **Patterns that lie, and one that doesn't.** Two new [[Puzzles]] notes. In the [[Borwein Integrals]], seven integrals in a row equal π/2, and the eighth misses by about 2 × 10⁻¹¹. Numerical checks of the deviation were first blamed on a software bug. The [[Sophomores Dream|Sophomore's Dream]] goes the other way: ∫₀¹ x⁻ˣ dx = 1 + 1/2² + 1/3³ + ... looks like a typo, but Johann Bernoulli proved it in 1697.
+- **The Putnam changes shape.** The 87th [[Putnam Competition]] (Sat, Dec 5, 2026) moves to four 90-minute sessions of three problems each. University pages relay that the MAA tied this to "challenges posed by AI to competition security."
+- **Bees beyond MIT.** The [[MIT Integration Bee]] note now covers where the bee started (1981) and its spread to Florida, Pitt (including a high school bee), Cambridge, and Lisbon.
+- **Calculus before calculus.** New [[Stories]] note: [[Ibn al-Haytham]], who squeezed a hemisphere between stacks of cylinders and used his sum-of-squares formula to get its volume, around 1000.
+- **Also:** the [[Glossary]] adds *convolution* and *sinc function*. Trails 2, 7, and 10 in [[Rabbit Holes]] get new stops.
 
 ## 2026-11-26
 - **The Riemann hypothesis, claimed.** New [[Open Problems]] note: [[Riemann Hypothesis]]. On Nov 20, [[Levent Alpoge|Levent Alpöge]] posted a claimed proof made "working with Claude": a four-page paper and about 17 million lines of Lean. A day later the Lean FRO and the Mathlib Initiative certified the Lean proof. Mathematicians do not yet understand the argument, and nothing is peer reviewed. The note also covers two earlier 2026 steps: an Anthropic model's bound putting at least 67.2% of zeros on the critical line (Aug) and OpenAI's quasi-Riemann hypothesis (Oct).

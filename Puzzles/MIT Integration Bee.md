@@ -1,10 +1,10 @@
 ---
 type: puzzle
 status: draft
-updated: 2026-11-22
-last_checked: 2026-11-22
+updated: 2026-11-27
+last_checked: 2026-11-27
 tags: [integration, competition, mit]
-sources: [math.mit.edu]
+sources: [math.mit.edu, en.wikipedia.org, mathematics.pitt.edu, ums.math.ufl.edu, sites.pitt.edu]
 ---
 
 # MIT Integration Bee
@@ -43,7 +43,15 @@ The first step is spotting the Riemann sum hiding inside: as n grows, the sum be
 
 ## Why people love it
 
-Textbook integrals are built to be solvable. Bee integrals are built to be solvable *fast* by someone who spots the trick, such as a symmetry, a substitution, or [[Feynman Integration Trick|differentiating under the integral sign]]. Many universities and schools now run their own bees.
+Textbook integrals are built to be solvable. Bee integrals are built to be solvable *fast* by someone who spots the trick, such as a symmetry, a substitution, or [[Feynman Integration Trick|differentiating under the integral sign]].
+
+## Bees elsewhere
+
+MIT's bee is the original. Wikipedia says it was started in **1981 by Andy Bernoff**, then an applied math student. The format has since spread widely:
+
+- **US campuses:** dozens run their own. For example, the **University of Florida** (a 25-integral written round, then a double-elimination bracket; past qualifiers from 2021 to 2025 are [posted with solutions](https://ums.math.ufl.edu/events/integrationbee)), and **Pitt**, where 70+ undergraduates entered in March 2026 and Luke Douglas won ([Pitt Math news](https://www.mathematics.pitt.edu/news/2026-pitt-undergraduate-integration-bee)).
+- **High school:** Pitt also runs a [high school bee](https://sites.pitt.edu/~lhwang/HIB.html) with shrinking time limits (2 minutes, then 1, then 30 seconds as the integral passes down the line).
+- **Worldwide:** Wikipedia's [list](https://en.wikipedia.org/wiki/Integration_Bee) includes Cambridge (open to Oxford, Imperial, Durham, and Warwick students), EPFL, Warsaw, Vienna, Heidelberg, Bonn, Barcelona, Madrid, Lisbon, UNSW, IISER Pune, Cairo, the Philippines, Bangladesh, Qatar, and Lima. Many started in 2022 or later.
 
 ## Play along
 
