@@ -1,7 +1,7 @@
 ---
 type: concept
 status: draft
-updated: 2026-11-18
+updated: 2026-11-28
 last_checked: 2026-11-17
 tags: [strange-calculi, stochastic-calculus, probability, finance]
 sources: [mathunion.org, ocw.mit.edu]
@@ -32,6 +32,7 @@ The key change is to the chain rule. Over a short time *dt*, a random kick is ab
 - **Finance:** option pricing grew out of Itô's ideas. See [[Black-Scholes Equation]].
 - **Biology:** random changes in population size and gene frequencies, for example the chance that a gene takes over a population.
 - **Physics and engineering:** noisy signals, and controlling systems that are pushed around at random.
+- **AI image generators:** [[Diffusion Models]] turn static into pictures by running a noise-adding SDE backwards.
 
 In 2006 Itô became the first winner of the **Gauss Prize** for applications of mathematics, "for laying the foundations of the theory of Stochastic Differential Equations and Stochastic Analysis." In his thank-you remarks he said that, since he worked in pure mathematics, the award was unexpected.
 
@@ -45,4 +46,5 @@ In 2006 Itô became the first winner of the **Gauss Prize** for applications of 
 - [[Black-Scholes Equation]]: the most famous application
 - [[Fractional Calculus]]: a different way of stretching the derivative
 - [[SIR Epidemic Model]]: a deterministic model that stochastic versions add noise to
+- [[Diffusion Models]]: SDEs at work in generative AI
 - [[Frontiers]]

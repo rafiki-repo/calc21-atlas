@@ -1,12 +1,19 @@
 ---
 type: changelog
 status: draft
-updated: 2026-11-27
+updated: 2026-11-28
 ---
 
 # What's New
 
 Latest additions and changes to the Atlas, newest first. Back to [[Home]].
+
+## 2026-11-28
+- **The formula inside your thermostat.** New [[Applications]] note: [[PID Controller]]. Push back on the error now (P), the error piled up so far (I, an integral), and where it is heading (D, a derivative). Nicolas Minorsky worked it out in 1922 for automatic ship steering and tested it on the battleship USS *New Mexico*. Åström and Hägglund write that more than 95% of process-control loops are PID type. The Applications hub gets an Engineering shelf.
+- **Static, run backwards.** New note: [[Diffusion Models]]. Many AI image generators add noise to pictures with a stochastic differential equation, then learn to reverse it. The note traces three papers: DDPM (2020), the SDE view of Song et al. (2021), and latent diffusion (2022), which Stable Diffusion builds on.
+- **√π from a bell curve.** New [[Puzzles]] note: [[Gaussian Integral]]. *e*^(−*x*²) has no elementary antiderivative, but squaring the integral and switching to polar coordinates gives √π. Answer hidden, with a link to Keith Conrad's eleven proofs.
+- **Richardson's forecast, explained.** [[Weather Forecasting]] now covers why the famous 1922 hand forecast went wrong: Peter Lynch's computer re-run traced the 145 hPa pressure jump to unbalanced starting data, and balancing them gave a realistic answer.
+- **Also:** the [[Glossary]] adds *feedback* and *stochastic differential equation*. [[Stochastic Calculus]] and [[Feynman Integration Trick]] link to the new notes. Trail 8 in [[Rabbit Holes]] gets a new stop, and new Trail 15, "Noise, put to work," starts at the bell curve.
 
 ## 2026-11-27
 - **Patterns that lie, and one that doesn't.** Two new [[Puzzles]] notes. In the [[Borwein Integrals]], seven integrals in a row equal π/2, and the eighth misses by about 2 × 10⁻¹¹. Numerical checks of the deviation were first blamed on a software bug. The [[Sophomores Dream|Sophomore's Dream]] goes the other way: ∫₀¹ x⁻ˣ dx = 1 + 1/2² + 1/3³ + ... looks like a typo, but Johann Bernoulli proved it in 1697.

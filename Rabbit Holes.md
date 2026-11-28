@@ -1,7 +1,7 @@
 ---
 type: hub
 status: draft
-updated: 2026-11-27
+updated: 2026-11-28
 ---
 
 # Rabbit Holes
@@ -77,10 +77,11 @@ Guided trails through the Atlas. Pick one and just keep clicking. Each trail cro
 
 1. [[Fundamental Theorem of Calculus]]: the one idea everything below leans on
 2. [[Weather Forecasting]]: 64,000 imaginary human computers, then real ones
-3. [[SIR Epidemic Model]]: why outbreaks stop before everyone is infected
-4. [[Backpropagation and the Chain Rule]]: the chain rule, run millions of times inside AI
-5. [[Physics-Informed Neural Networks]]: networks that must obey the equations
-6. [[Grant Sanderson]]: the animator who makes these ideas visible
+3. [[PID Controller]]: an integral and a derivative inside every thermostat, first aboard a battleship
+4. [[SIR Epidemic Model]]: why outbreaks stop before everyone is infected
+5. [[Backpropagation and the Chain Rule]]: the chain rule, run millions of times inside AI
+6. [[Physics-Informed Neural Networks]]: networks that must obey the equations
+7. [[Grant Sanderson]]: the animator who makes these ideas visible
 
 ## Trail 9: Strange calculi
 
@@ -136,6 +137,14 @@ Guided trails through the Atlas. Pick one and just keep clicking. Each trail cro
 4. [[Proof Assistants and Lean]]: how 17 million lines of proof get checked
 5. [[AI as Research Collaborator]]: how AI got here, one episode at a time
 6. [[Levent Alpoge]]: the claimant
+
+## Trail 15: Noise, put to work
+
+1. [[Gaussian Integral]]: the area under the bell curve is √π, and the proof detours through 2D
+2. [[Stochastic Calculus]]: Itô's calculus for paths jostled by random noise
+3. [[Black-Scholes Equation]]: random noise, priced on Wall Street
+4. [[Diffusion Models]]: random noise, run backwards into AI-made pictures
+5. [[Backpropagation and the Chain Rule]]: how the network that guides the reversal gets trained
 
 ---
 

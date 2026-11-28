@@ -1,7 +1,7 @@
 ---
 type: glossary
 status: draft
-updated: 2026-11-27
+updated: 2026-11-28
 sources: unverified-seed
 ---
 
@@ -66,6 +66,9 @@ The number γ ≈ 0.5772, the limit of (1 + 1/2 + ... + 1/n) − ln n. Nobody kn
 If a function is [[Glossary#Continuity|continuous]] on a closed interval [a, b], it reaches a largest and a smallest value somewhere on that interval. Drop "closed" or "continuous" and it can fail. See [[AP Calculus]], whose syllabus reworded it for Fall 2026.
 
 ## F
+
+### Feedback
+Using a system's own output to adjust its input: measure the error, then correct it. A thermostat is the everyday example. See [[PID Controller]].
 
 ### Finite difference
 The change in a function over a fixed step instead of an infinitely small one: *f*(*x* + 1) − *f*(*x*). It is the discrete cousin of the derivative. See [[Discrete Calculus]].
@@ -144,6 +147,9 @@ An approximation of an integral made by chopping an interval into thin strips an
 
 ### Series
 A sum of infinitely many terms. See [[Basel Problem]].
+
+### Stochastic differential equation (SDE)
+A differential equation with a random term added, so its solutions are random paths rather than single curves. See [[Stochastic Calculus]] and [[Diffusion Models]].
 
 ### Sinc function
 sinc(*x*) = sin(*x*)/*x*, a wave that shrinks as it moves away from 0 (where its value is 1). Its integral over the whole line is π. Star of the [[Borwein Integrals]].

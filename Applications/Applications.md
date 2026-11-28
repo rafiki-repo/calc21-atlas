@@ -1,7 +1,7 @@
 ---
 type: hub
 status: draft
-updated: 2026-11-24
+updated: 2026-11-28
 ---
 
 # Applications
@@ -14,6 +14,7 @@ Calculus out in the world: physics, engineering, biology, economics, and machine
 
 - [[Backpropagation and the Chain Rule]]: how neural networks learn, one derivative at a time
 - [[Physics-Informed Neural Networks]]: networks graded on obeying a differential equation, and why training them often fails
+- [[Diffusion Models]]: AI image generators that run a noise-adding equation backwards
 
 ## Biology and medicine
 
@@ -27,7 +28,11 @@ Calculus out in the world: physics, engineering, biology, economics, and machine
 
 - [[Weather Forecasting]]: from a 1922 hand calculation to machine-learning models run alongside the physics
 
+## Engineering
+
+- [[PID Controller]]: past, present, and future error, as integral, value, and derivative; born steering a battleship in 1922
+
 ## Still to map
 
 - **Economics:** marginal analysis and optimization
-- **Engineering:** control, signals, and structures
+- **Engineering:** signals and structures

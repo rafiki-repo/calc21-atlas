@@ -1,7 +1,7 @@
 ---
 type: hub
 status: draft
-updated: 2026-11-27
+updated: 2026-11-28
 ---
 
 # Calc21 Atlas
@@ -65,6 +65,8 @@ Calculus is **two ideas and one surprise**. The first idea: you can measure *how
 - **Is 1 + 1/32 + 1/243 + ... a fraction? (A 2026 preprint says no, and computers agree.)** → [[Irrationality of Zeta Values]]
 - **Seven integrals equal π/2. Why does the eighth miss by 0.00000000002?** → [[Borwein Integrals]]
 - **Who found the volume of a sphere by adding up squares, 650 years before Newton?** → [[Ibn al-Haytham]]
+- **What do a 1922 battleship and your thermostat have in common? An integral and a derivative.** → [[PID Controller]]
+- **How does an AI turn static into a picture? It runs a random equation backwards.** → [[Diffusion Models]]
 
 ---
 

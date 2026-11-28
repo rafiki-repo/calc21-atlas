@@ -1,7 +1,7 @@
 ---
 type: hub
 status: draft
-updated: 2026-11-27
+updated: 2026-11-28
 ---
 
 # Puzzles
@@ -13,6 +13,7 @@ Famous integrals, series, and problems to play with, plus the competitions that 
 - [[Basel Problem]]: an infinite sum with a surprising answer, π²/6
 - [[Borwein Integrals]]: seven integrals equal π/2, the eighth misses by 10⁻¹¹
 - [[Sophomores Dream|Sophomore's Dream]]: ∫ x⁻ˣ from 0 to 1 equals 1 + 1/2² + 1/3³ + ..., and it's true
+- [[Gaussian Integral]]: no antiderivative, yet the area under the bell curve is exactly √π
 
 ## Tricks of the trade
 
@@ -25,4 +26,4 @@ Famous integrals, series, and problems to play with, plus the competitions that 
 
 ## Still to map
 
-More classic "trick" integrals (the Gaussian integral), recreational series, and olympiad-style calculus problems.
+More classic "trick" integrals, recreational series, and olympiad-style calculus problems.
